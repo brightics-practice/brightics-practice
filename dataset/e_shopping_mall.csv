@@ -1,0 +1,2397 @@
+seq,cust_id,ctg_1,ctg_2,sales_amt
+1,100001,household goods,paper towel,13900.0
+2,100001,clothing,men's clothing,62900.0
+3,100001,clothing,sports wear,14700.0
+4,100002,clothing,men's clothing,63800.0
+5,100002,clothing,infant clothes,29200.0
+6,100003,food,snack,8800.0
+7,100003,clothing,men's clothing,63000.0
+8,100004,clothing,men's clothing,59900.0
+9,100004,clothing,infant clothes,34500.0
+10,100005,household goods,paper towel,16900.0
+11,100005,clothing,men's clothing,64000.0
+12,100006,clothing,road shop brand,43300.0
+13,100007,clothing,children & junior clothing,55100.0
+14,100007,clothing,pajamas,19000.0
+15,100008,food,processed food,9700.0
+16,100008,food,agricultural products,17400.0
+17,100008,clothing,sports wear,20500.0
+18,100009,clothing,men's clothing,66900.0
+19,100009,clothing,pajamas,15100.0
+20,100010,clothing,Other Apparel,99400.0
+21,100011,household goods,household goods,44700.0
+22,100011,clothing,men's clothing,62100.0
+23,100012,clothing,children & junior clothing,59400.0
+24,100012,clothing,women's clothing,100600.0
+25,100012,clothing,road shop brand,49300.0
+26,100012,clothing,women's clothing,100400.0
+27,100013,food,beverage,5700.0
+28,100013,clothing,children & junior clothing,60100.0
+29,100014,household goods,paper towel,16900.0
+30,100014,clothing,men's clothing,64400.0
+31,100014,clothing,underwear,17600.0
+32,100015,clothing,men's clothing,60400.0
+33,100015,clothing,women's clothing,93700.0
+34,100015,clothing,infant clothes,33800.0
+35,100015,clothing,women's clothing,94600.0
+36,100016,clothing,men's clothing,65100.0
+37,100017,clothing,road shop brand,47300.0
+38,100018,clothing,children & junior clothing,56800.0
+39,100019,food,cookies,8500.0
+40,100019,clothing,men's clothing,59500.0
+41,100020,food,aquaculture products,32700.0
+42,100020,food,beverage,10000.0
+43,100020,clothing,women's clothing,101100.0
+44,100020,food,cookies,13300.0
+45,100020,food,beverage,10300.0
+46,100020,cosmetics,men's cosmetics,84300.0
+47,100021,clothing,men's clothing,64800.0
+48,100021,clothing,women's clothing,100000.0
+49,100022,clothing,children & junior clothing,59300.0
+50,100023,cosmetics,luxury cosmetics,526500.0
+51,100023,household goods,paper towel,12900.0
+52,100023,clothing,men's clothing,67200.0
+53,100023,clothing,children & junior clothing,54500.0
+54,100023,clothing,underwear,14400.0
+55,100023,clothing,women's clothing,96000.0
+56,100023,clothing,infant clothes,27000.0
+57,100023,clothing,pajamas,14800.0
+58,100024,clothing,men's clothing,67600.0
+59,100024,clothing,children & junior clothing,59000.0
+60,100025,food,beverage,9100.0
+61,100025,clothing,men's clothing,61600.0
+62,100026,food,aquaculture products,40200.0
+63,100026,clothing,women's clothing,98100.0
+64,100027,clothing,men's clothing,64400.0
+65,100027,clothing,women's clothing,97000.0
+66,100027,clothing,infant clothes,33400.0
+67,100027,clothing,maternity,88700.0
+68,100028,food,beverage,8200.0
+69,100028,clothing,children & junior clothing,60400.0
+70,100028,cosmetics,luxury cosmetics,526700.0
+71,100028,clothing,men's clothing,63500.0
+72,100028,clothing,sports wear,16200.0
+73,100028,clothing,women's clothing,98600.0
+74,100028,clothing,pajamas,19200.0
+75,100029,clothing,men's clothing,66100.0
+76,100029,clothing,women's clothing,95500.0
+77,100029,clothing,women's clothing,93100.0
+78,100030,clothing,men's clothing,66800.0
+79,100030,clothing,children & junior clothing,61100.0
+80,100030,clothing,women's clothing,93500.0
+81,100030,food,beverage,13600.0
+82,100030,clothing,women's clothing,96800.0
+83,100031,food,cookies,12700.0
+84,100031,clothing,men's clothing,65100.0
+85,100031,clothing,sports wear,15900.0
+86,100032,household goods,paper towel,11200.0
+87,100032,food,cookies,5900.0
+88,100032,clothing,men's clothing,67400.0
+89,100032,clothing,children & junior clothing,57400.0
+90,100033,clothing,Other Apparel,96500.0
+91,100033,clothing,children & junior clothing,59900.0
+92,100033,household goods,paper towel,14800.0
+93,100033,clothing,Other Apparel,93700.0
+94,100033,clothing,road shop brand,51000.0
+95,100033,clothing,sports wear,14000.0
+96,100033,clothing,children & junior clothing,55500.0
+97,100034,household goods,paper towel,16500.0
+98,100034,clothing,children & junior clothing,61800.0
+99,100035,clothing,women's clothing,98100.0
+100,100036,electronic products,kitchen appliances,345600.0
+101,100036,household goods,paper towel,15900.0
+102,100036,food,beverage,9800.0
+103,100036,clothing,men's clothing,63900.0
+104,100036,cosmetics,body products,70000.0
+105,100037,household goods,paper towel,14600.0
+106,100037,clothing,women's clothing,98000.0
+107,100038,electronic products,video sound,679800.0
+108,100038,clothing,men's clothing,60400.0
+109,100038,clothing,children & junior clothing,60100.0
+110,100038,clothing,women's clothing,100600.0
+111,100038,clothing,Other Apparel,96400.0
+112,100038,clothing,women's clothing,95500.0
+113,100038,clothing,road shop brand,42800.0
+114,100038,cosmetics,luxury cosmetics,530700.0
+115,100038,cosmetics,luxury cosmetics,525000.0
+116,100038,clothing,children & junior clothing,60900.0
+117,100038,clothing,women's clothing,94400.0
+118,100038,cosmetics,luxury cosmetics,522400.0
+119,100038,clothing,women's clothing,93000.0
+120,100038,clothing,women's clothing,94300.0
+121,100038,food,processed food,13900.0
+122,100038,food,health food,100200.0
+123,100038,clothing,infant clothes,32100.0
+124,100039,clothing,Other Apparel,93000.0
+125,100039,clothing,children & junior clothing,56600.0
+126,100039,clothing,men's clothing,60400.0
+127,100039,clothing,children & junior clothing,59300.0
+128,100039,clothing,women's clothing,94700.0
+129,100040,electronic products,video sound,675100.0
+130,100040,household goods,kitchen utensils,8900.0
+131,100040,food,agricultural products,16300.0
+132,100040,food,beverage,13800.0
+133,100040,clothing,men's clothing,59900.0
+134,100040,clothing,road shop brand,45400.0
+135,100040,clothing,children & junior clothing,59100.0
+136,100040,cosmetics,cleansing,85000.0
+137,100040,household goods,paper towel,12700.0
+138,100040,food,beverage,8400.0
+139,100040,clothing,road shop brand,44400.0
+140,100040,clothing,women's clothing,94500.0
+141,100040,cosmetics,luxury cosmetics,529100.0
+142,100040,electronic products,video sound,673000.0
+143,100040,food,cookies,9000.0
+144,100040,clothing,infant clothes,29500.0
+145,100041,food,instant food,39600.0
+146,100041,clothing,men's clothing,63300.0
+147,100042,clothing,road shop brand,49000.0
+148,100043,clothing,men's clothing,65500.0
+149,100045,clothing,children & junior clothing,54800.0
+150,100046,clothing,infant clothes,27700.0
+151,100047,food,health food,95500.0
+152,100048,clothing,women's clothing,93600.0
+153,100049,clothing,men's clothing,62100.0
+154,100050,clothing,men's clothing,67100.0
+155,100051,food,beverage,13100.0
+156,100052,clothing,children & junior clothing,53800.0
+157,100053,clothing,road shop brand,51000.0
+158,100054,food,processed food,11800.0
+159,100054,food,agricultural products,20800.0
+160,100055,household goods,paper towel,16400.0
+161,100057,clothing,road shop brand,43200.0
+162,100058,clothing,women's clothing,95600.0
+163,100058,cosmetics,luxury cosmetics,525000.0
+164,100058,electronic products,kitchen appliances,350600.0
+165,100058,clothing,men's clothing,59800.0
+166,100058,cosmetics,luxury cosmetics,528600.0
+167,100059,clothing,men's clothing,65900.0
+168,100060,food,instant food,39900.0
+169,100060,clothing,children & junior clothing,61200.0
+170,100062,clothing,Other Apparel,95100.0
+171,100062,clothing,children & junior clothing,56300.0
+172,100062,clothing,women's clothing,99400.0
+173,100062,clothing,Other Apparel,99400.0
+174,100062,clothing,men's clothing,66000.0
+175,100063,clothing,men's clothing,67500.0
+176,100065,food,snack,7100.0
+177,100066,clothing,men's clothing,67200.0
+178,100069,clothing,underwear,14700.0
+179,100069,clothing,infant clothes,29600.0
+180,100070,clothing,men's clothing,62700.0
+181,100071,clothing,men's clothing,65700.0
+182,100072,clothing,children & junior clothing,53800.0
+183,100073,food,beverage,7800.0
+184,100075,food,health food,99900.0
+185,100075,food,agricultural products,15100.0
+186,100075,food,aquaculture products,39000.0
+187,100075,clothing,infant clothes,32100.0
+188,100075,clothing,children & junior clothing,56700.0
+189,100075,clothing,women's clothing,100600.0
+190,100076,clothing,infant clothes,31500.0
+191,100077,clothing,men's clothing,61100.0
+192,100078,clothing,men's clothing,65500.0
+193,100078,clothing,children & junior clothing,55900.0
+194,100079,food,aquaculture products,35700.0
+195,100080,clothing,children & junior clothing,60300.0
+196,100081,clothing,men's clothing,65600.0
+197,100082,clothing,children & junior clothing,57800.0
+198,100083,electronic products,cellphone,819400.0
+199,100085,clothing,children & junior clothing,61900.0
+200,100086,clothing,men's clothing,62500.0
+201,100088,clothing,men's clothing,60500.0
+202,100089,clothing,men's clothing,65500.0
+203,100090,clothing,women's clothing,98800.0
+204,100091,clothing,infant clothes,26400.0
+205,100093,food,aquaculture products,37200.0
+206,100094,household goods,paper towel,18400.0
+207,100099,clothing,men's clothing,58500.0
+208,100101,clothing,men's clothing,61400.0
+209,100103,clothing,men's clothing,59000.0
+210,100104,clothing,men's clothing,66700.0
+211,100105,clothing,children & junior clothing,53700.0
+212,100106,household goods,paper towel,18300.0
+213,100108,clothing,men's clothing,65300.0
+214,100108,clothing,children & junior clothing,61100.0
+215,100108,clothing,infant clothes,28300.0
+216,100108,clothing,Other Apparel,94600.0
+217,100109,clothing,men's clothing,62700.0
+218,100110,clothing,men's clothing,67300.0
+219,100112,household goods,paper towel,12300.0
+220,100112,food,cookies,13700.0
+221,100112,clothing,children & junior clothing,60600.0
+222,100113,household goods,paper towel,17600.0
+223,100115,clothing,children & junior clothing,60500.0
+224,100115,clothing,infant clothes,32500.0
+225,100116,household goods,paper towel,12300.0
+226,100116,clothing,men's clothing,58700.0
+227,100116,clothing,pajamas,15600.0
+228,100117,clothing,men's clothing,59300.0
+229,100117,clothing,children & junior clothing,58700.0
+230,100118,household goods,paper towel,13400.0
+231,100118,clothing,men's clothing,59200.0
+232,100118,clothing,pajamas,13500.0
+233,100119,household goods,paper towel,17500.0
+234,100119,clothing,men's clothing,59900.0
+235,100119,clothing,pajamas,17900.0
+236,100120,clothing,road shop brand,41900.0
+237,100121,clothing,women's clothing,98300.0
+238,100122,clothing,pajamas,11300.0
+239,100124,clothing,children & junior clothing,59700.0
+240,100125,clothing,children & junior clothing,56000.0
+241,100126,clothing,women's clothing,98300.0
+242,100127,clothing,women's clothing,93400.0
+243,100128,clothing,pajamas,18000.0
+244,100129,clothing,children & junior clothing,56900.0
+245,100130,clothing,men's clothing,63300.0
+246,100130,clothing,road shop brand,51000.0
+247,100131,food,health food,96900.0
+248,100131,food,agricultural products,16900.0
+249,100131,food,aquaculture products,37900.0
+250,100131,clothing,Other Apparel,93300.0
+251,100131,clothing,maternity,87600.0
+252,100134,food,beverage,6000.0
+253,100135,clothing,women's clothing,95400.0
+254,100137,household goods,paper towel,17700.0
+255,100137,clothing,children & junior clothing,57000.0
+256,100138,clothing,children & junior clothing,57800.0
+257,100141,food,cookies,8300.0
+258,100142,clothing,women's clothing,95000.0
+259,100143,clothing,pajamas,13800.0
+260,100145,clothing,sports wear,16200.0
+261,100147,clothing,women's clothing,96200.0
+262,100148,clothing,road shop brand,47800.0
+263,100149,clothing,road shop brand,42200.0
+264,100150,clothing,women's clothing,101300.0
+265,100153,clothing,men's clothing,62900.0
+266,100153,clothing,women's clothing,97900.0
+267,100153,clothing,sports wear,21400.0
+268,100153,clothing,children & junior clothing,60700.0
+269,100153,clothing,women's clothing,97400.0
+270,100154,clothing,men's clothing,66200.0
+271,100155,food,aquaculture products,34900.0
+272,100156,clothing,infant clothes,27400.0
+273,100157,clothing,women's clothing,93600.0
+274,100158,clothing,children & junior clothing,54700.0
+275,100159,household goods,paper towel,9500.0
+276,100159,clothing,infant clothes,28900.0
+277,100160,food,beverage,10800.0
+278,100161,clothing,women's clothing,93600.0
+279,100162,clothing,men's clothing,66300.0
+280,100163,clothing,men's clothing,67600.0
+281,100165,food,aquaculture products,35500.0
+282,100166,electronic products,kitchen appliances,347700.0
+283,100167,clothing,infant clothes,34300.0
+284,100168,clothing,infant clothes,34300.0
+285,100169,clothing,men's clothing,64500.0
+286,100170,clothing,road shop brand,45600.0
+287,100170,clothing,children & junior clothing,55800.0
+288,100170,clothing,women's clothing,98500.0
+289,100170,food,beverage,10000.0
+290,100170,clothing,women's clothing,94400.0
+291,100170,clothing,infant clothes,30300.0
+292,100171,clothing,children & junior clothing,53400.0
+293,100172,clothing,men's clothing,61100.0
+294,100173,household goods,paper towel,10400.0
+295,100173,food,beverage,8300.0
+296,100173,clothing,underwear,15800.0
+297,100174,food,processed food,17200.0
+298,100174,food,agricultural products,20500.0
+299,100174,food,aquaculture products,38700.0
+300,100174,clothing,sports wear,14300.0
+301,100175,clothing,women's clothing,99400.0
+302,100176,clothing,women's clothing,97800.0
+303,100177,clothing,women's clothing,98500.0
+304,110001,household goods,paper towel,15500.0
+305,110002,food,cookies,9900.0
+306,110002,clothing,women's clothing,96500.0
+307,110003,clothing,men's clothing,59700.0
+308,110004,clothing,men's clothing,64500.0
+309,110004,clothing,children & junior clothing,61600.0
+310,110005,clothing,road shop brand,46400.0
+311,110006,food,snack,7400.0
+312,110006,clothing,women's clothing,97400.0
+313,110007,clothing,road shop brand,44400.0
+314,110008,clothing,men's clothing,65100.0
+315,110008,clothing,infant clothes,31800.0
+316,110009,food,processed food,15400.0
+317,110009,cosmetics,suncare,44700.0
+318,110010,food,cookies,10000.0
+319,110010,clothing,Other Apparel,99500.0
+320,110010,clothing,men's clothing,62300.0
+321,110010,clothing,Other Apparel,93800.0
+322,110010,clothing,children & junior clothing,60600.0
+323,110011,food,snack,10900.0
+324,110011,clothing,sports wear,17800.0
+325,110012,clothing,children & junior clothing,55200.0
+326,110012,cosmetics,luxury cosmetics,530700.0
+327,110014,clothing,men's clothing,66900.0
+328,110014,clothing,women's clothing,93100.0
+329,110015,household goods,paper towel,12500.0
+330,110015,clothing,children & junior clothing,53500.0
+331,110015,clothing,pajamas,13800.0
+332,110016,household goods,paper towel,13900.0
+333,110016,clothing,men's clothing,60400.0
+334,110017,clothing,men's clothing,63100.0
+335,110017,clothing,infant clothes,31900.0
+336,110018,clothing,women's clothing,94200.0
+337,110018,clothing,infant clothes,28500.0
+338,110019,household goods,paper towel,14300.0
+339,110019,food,snack,7900.0
+340,110019,food,beverage,6000.0
+341,110019,clothing,men's clothing,64400.0
+342,110019,clothing,women's clothing,94900.0
+343,110019,clothing,maternity,83600.0
+344,110019,clothing,women's clothing,98300.0
+345,110020,food,agricultural products,17600.0
+346,110020,food,aquaculture products,35700.0
+347,110020,clothing,children & junior clothing,62300.0
+348,110021,food,agricultural products,14800.0
+349,110021,food,aquaculture products,36100.0
+350,110021,food,beverage,13700.0
+351,110021,clothing,children & junior clothing,54600.0
+352,110022,food,agricultural products,16000.0
+353,110022,food,aquaculture products,41300.0
+354,110023,food,cookies,13400.0
+355,110023,clothing,men's clothing,64000.0
+356,110024,food,agricultural products,18500.0
+357,110024,food,aquaculture products,35700.0
+358,110024,clothing,women's clothing,98100.0
+359,110024,clothing,women's clothing,101200.0
+360,110025,clothing,children & junior clothing,57500.0
+361,110026,clothing,children & junior clothing,53500.0
+362,110027,clothing,men's clothing,65500.0
+363,110027,clothing,women's clothing,95400.0
+364,110027,food,health food,101000.0
+365,110027,food,aquaculture products,33200.0
+366,110029,clothing,men's clothing,61700.0
+367,110030,clothing,road shop brand,46600.0
+368,110031,clothing,road shop brand,47200.0
+369,110032,clothing,infant clothes,30100.0
+370,110033,clothing,men's clothing,60900.0
+371,110035,household goods,paper towel,18100.0
+372,110036,food,beverage,12400.0
+373,110036,cosmetics,body products,66600.0
+374,110037,clothing,children & junior clothing,53500.0
+375,110038,clothing,men's clothing,67200.0
+376,110039,household goods,paper towel,12800.0
+377,110040,clothing,women's clothing,100700.0
+378,110041,food,agricultural products,17800.0
+379,110041,clothing,Other Apparel,94800.0
+380,110044,household goods,paper towel,10200.0
+381,110045,clothing,Other Apparel,101100.0
+382,110046,clothing,children & junior clothing,60500.0
+383,110047,clothing,pajamas,19500.0
+384,110048,clothing,men's clothing,65000.0
+385,110049,clothing,road shop brand,46300.0
+386,110050,clothing,men's clothing,67500.0
+387,110051,clothing,men's clothing,64900.0
+388,110052,clothing,Other Apparel,100800.0
+389,110052,clothing,men's clothing,65200.0
+390,110052,clothing,infant clothes,32800.0
+391,110052,clothing,pajamas,13000.0
+392,110052,clothing,women's clothing,96900.0
+393,110053,clothing,men's clothing,62600.0
+394,110054,clothing,sports wear,14900.0
+395,110054,clothing,women's clothing,99100.0
+396,110055,household goods,paper towel,10300.0
+397,110055,food,cookies,12300.0
+398,110055,clothing,infant clothes,28400.0
+399,110056,clothing,women's clothing,98200.0
+400,110057,clothing,men's clothing,61900.0
+401,110058,clothing,men's clothing,64500.0
+402,110059,food,cookies,6800.0
+403,110061,clothing,men's clothing,61400.0
+404,110062,clothing,Other Apparel,99500.0
+405,110062,clothing,men's clothing,64600.0
+406,110062,clothing,women's clothing,100000.0
+407,110063,food,instant food,39500.0
+408,110067,clothing,men's clothing,58900.0
+409,110069,clothing,infant clothes,27000.0
+410,110070,food,beverage,5900.0
+411,110072,food,cookies,7300.0
+412,110073,household goods,paper towel,17800.0
+413,110073,cosmetics,hair,2200.0
+414,110074,clothing,children & junior clothing,59000.0
+415,110075,household goods,paper towel,15400.0
+416,110075,clothing,women's clothing,93000.0
+417,110079,clothing,Other Apparel,100400.0
+418,110080,clothing,men's clothing,59100.0
+419,110081,clothing,men's clothing,64700.0
+420,110084,clothing,sports wear,14700.0
+421,110087,clothing,children & junior clothing,60800.0
+422,110088,clothing,children & junior clothing,53600.0
+423,110089,household goods,paper towel,18300.0
+424,110089,clothing,children & junior clothing,54300.0
+425,110089,clothing,women's clothing,96900.0
+426,110089,clothing,women's clothing,99100.0
+427,110090,clothing,men's clothing,64500.0
+428,110091,clothing,men's clothing,63500.0
+429,110092,food,health food,99400.0
+430,110093,clothing,men's clothing,64400.0
+431,110098,clothing,women's clothing,94900.0
+432,110099,clothing,men's clothing,65800.0
+433,110100,household goods,paper towel,15200.0
+434,110102,clothing,women's clothing,100400.0
+435,110103,household goods,paper towel,9800.0
+436,110103,clothing,men's clothing,66600.0
+437,110103,clothing,infant clothes,29700.0
+438,110104,clothing,men's clothing,62200.0
+439,110105,clothing,women's clothing,94500.0
+440,110106,household goods,paper towel,18000.0
+441,110106,clothing,women's clothing,93800.0
+442,110107,clothing,men's clothing,60500.0
+443,110109,household goods,paper towel,16400.0
+444,110109,clothing,pajamas,17500.0
+445,110113,clothing,women's clothing,97400.0
+446,110114,clothing,men's clothing,63300.0
+447,110115,clothing,men's clothing,62700.0
+448,110116,clothing,women's clothing,94500.0
+449,110118,food,beverage,9600.0
+450,110119,clothing,women's clothing,99100.0
+451,110120,clothing,men's clothing,64600.0
+452,110120,clothing,underwear,16000.0
+453,110120,clothing,pajamas,12100.0
+454,110122,household goods,paper towel,14400.0
+455,110122,clothing,children & junior clothing,58500.0
+456,110123,household goods,paper towel,16300.0
+457,110124,clothing,men's clothing,65800.0
+458,110125,clothing,men's clothing,64600.0
+459,110126,clothing,men's clothing,65200.0
+460,110127,household goods,paper towel,13000.0
+461,110127,clothing,women's clothing,101900.0
+462,110128,household goods,paper towel,9700.0
+463,110128,clothing,road shop brand,50500.0
+464,110128,clothing,sports wear,18900.0
+465,110128,clothing,infant clothes,26500.0
+466,110128,clothing,pajamas,11900.0
+467,110130,clothing,men's clothing,64600.0
+468,110131,clothing,men's clothing,67400.0
+469,110132,food,beverage,7000.0
+470,110132,clothing,men's clothing,63900.0
+471,110133,household goods,paper towel,9500.0
+472,110133,clothing,women's clothing,94600.0
+473,110135,clothing,men's clothing,65400.0
+474,110135,clothing,women's clothing,98600.0
+475,110136,clothing,infant clothes,34100.0
+476,110137,clothing,men's clothing,63700.0
+477,110139,clothing,children & junior clothing,55900.0
+478,110143,household goods,kitchen utensils,14000.0
+479,110143,food,cookies,11300.0
+480,110143,clothing,children & junior clothing,57500.0
+481,110143,clothing,women's clothing,93100.0
+482,110143,clothing,Other Apparel,98400.0
+483,110143,clothing,women's clothing,99000.0
+484,110144,household goods,paper towel,16200.0
+485,110144,clothing,men's clothing,62800.0
+486,110145,clothing,women's clothing,98400.0
+487,110146,clothing,road shop brand,44400.0
+488,110148,clothing,men's clothing,60100.0
+489,110149,clothing,men's clothing,61900.0
+490,110150,clothing,men's clothing,66000.0
+491,1100001,clothing,men's clothing,62300.0
+492,1100001,clothing,children & junior clothing,57800.0
+493,1100002,clothing,infant clothes,28700.0
+494,1100003,clothing,infant clothes,31500.0
+495,1100004,clothing,road shop brand,46700.0
+496,1100004,clothing,sports wear,18000.0
+497,1100004,clothing,children & junior clothing,54600.0
+498,1100004,clothing,infant clothes,32600.0
+499,1100004,clothing,men's clothing,65800.0
+500,1100004,clothing,road shop brand,43800.0
+501,1100004,clothing,infant clothes,33500.0
+502,1100004,clothing,maternity,84400.0
+503,1100005,clothing,children & junior clothing,58200.0
+504,1100006,food,snack,15900.0
+505,1100006,clothing,children & junior clothing,60700.0
+506,1100007,household goods,paper towel,12200.0
+507,1100007,clothing,men's clothing,60400.0
+508,1100007,clothing,women's clothing,95400.0
+509,1100007,food,health food,94500.0
+510,1100007,clothing,children & junior clothing,57100.0
+511,1100008,clothing,infant clothes,26200.0
+512,1100009,clothing,men's clothing,66100.0
+513,1100009,clothing,road shop brand,50800.0
+514,1100009,clothing,children & junior clothing,61800.0
+515,1100010,clothing,men's clothing,61100.0
+516,1100010,clothing,children & junior clothing,59000.0
+517,1100010,clothing,women's clothing,101800.0
+518,1100011,clothing,men's clothing,61200.0
+519,1100011,clothing,pajamas,10900.0
+520,1100012,clothing,men's clothing,62100.0
+521,1100013,clothing,men's clothing,60000.0
+522,1100014,household goods,paper towel,11900.0
+523,1100014,clothing,men's clothing,61000.0
+524,1100014,clothing,children & junior clothing,53700.0
+525,1100014,clothing,women's clothing,101300.0
+526,1100014,clothing,infant clothes,26600.0
+527,1100014,clothing,women's clothing,93500.0
+528,1100015,clothing,children & junior clothing,57700.0
+529,1100016,food,cookies,12800.0
+530,1100016,food,beverage,5600.0
+531,1100016,clothing,road shop brand,49700.0
+532,1100017,clothing,road shop brand,43100.0
+533,1100017,clothing,children & junior clothing,62300.0
+534,1100018,household goods,paper towel,10700.0
+535,1100018,clothing,men's clothing,65300.0
+536,1100019,clothing,men's clothing,65100.0
+537,1100020,clothing,men's clothing,60200.0
+538,1100020,clothing,children & junior clothing,55100.0
+539,1100020,clothing,infant clothes,30400.0
+540,1100020,food,cookies,14600.0
+541,1100020,clothing,children & junior clothing,60600.0
+542,1100020,clothing,maternity,90300.0
+543,1100021,clothing,men's clothing,59200.0
+544,1100021,clothing,big size clothing,31000.0
+545,1100022,clothing,big size clothing,32100.0
+546,1100022,clothing,children & junior clothing,56700.0
+547,1100023,clothing,children & junior clothing,56200.0
+548,1100023,clothing,women's clothing,97100.0
+549,1100023,clothing,women's clothing,95500.0
+550,1100024,clothing,Other Apparel,94100.0
+551,1100024,clothing,women's clothing,101000.0
+552,1100024,household goods,paper towel,13200.0
+553,1100024,food,health food,101000.0
+554,1100024,food,beverage,12300.0
+555,1100024,clothing,Other Apparel,101000.0
+556,1100024,clothing,sports wear,21200.0
+557,1100025,clothing,men's clothing,61000.0
+558,1100026,clothing,men's clothing,62400.0
+559,1100026,clothing,children & junior clothing,54000.0
+560,1100026,clothing,women's clothing,99300.0
+561,1100026,clothing,Other Apparel,93200.0
+562,1100027,clothing,children & junior clothing,54700.0
+563,1100028,clothing,men's clothing,59300.0
+564,1100028,clothing,infant clothes,28900.0
+565,1100029,clothing,children & junior clothing,56200.0
+566,1100029,clothing,infant clothes,30600.0
+567,1100030,clothing,children & junior clothing,54000.0
+568,1100031,clothing,men's clothing,61200.0
+569,1100031,clothing,children & junior clothing,58000.0
+570,1100032,household goods,paper towel,14300.0
+571,1100032,clothing,road shop brand,46600.0
+572,1100032,clothing,women's clothing,93600.0
+573,1100032,clothing,women's clothing,96600.0
+574,1100033,food,cookies,9300.0
+575,1100033,clothing,road shop brand,44700.0
+576,1100033,clothing,children & junior clothing,57600.0
+577,1100033,clothing,women's clothing,101300.0
+578,1100034,clothing,children & junior clothing,59500.0
+579,1100035,food,agricultural products,20600.0
+580,1100035,food,aquaculture products,37800.0
+581,1100035,clothing,children & junior clothing,54900.0
+582,1100036,clothing,children & junior clothing,53600.0
+583,1100037,clothing,children & junior clothing,56400.0
+584,1100038,clothing,men's clothing,60800.0
+585,1100038,clothing,sports wear,17900.0
+586,1100038,clothing,children & junior clothing,56600.0
+587,1100038,food,aquaculture products,40700.0
+588,1100038,clothing,men's clothing,65900.0
+589,1100038,clothing,road shop brand,44900.0
+590,1100038,clothing,children & junior clothing,58900.0
+591,1100038,clothing,infant clothes,27900.0
+592,1100038,clothing,maternity,88800.0
+593,1100039,household goods,household goods,42400.0
+594,1100039,clothing,men's clothing,65100.0
+595,1100039,clothing,women's clothing,96100.0
+596,1100039,clothing,pajamas,17300.0
+597,1100040,electronic products,video sound,681500.0
+598,1100040,clothing,men's clothing,61800.0
+599,1100040,clothing,children & junior clothing,55500.0
+600,1100040,clothing,women's clothing,101500.0
+601,1100040,clothing,infant clothes,29000.0
+602,1100040,cosmetics,luxury cosmetics,524100.0
+603,1100041,clothing,men's clothing,66000.0
+604,1100041,clothing,children & junior clothing,58500.0
+605,1100042,clothing,men's clothing,60800.0
+606,1100042,clothing,children & junior clothing,57700.0
+607,1100043,household goods,paper towel,12700.0
+608,1100043,clothing,men's clothing,60800.0
+609,1100043,clothing,children & junior clothing,54800.0
+610,1100043,food,aquaculture products,37300.0
+611,1100043,food,beverage,13600.0
+612,1100043,clothing,men's clothing,62800.0
+613,1100043,clothing,maternity,89600.0
+614,1100044,clothing,men's clothing,62300.0
+615,1100044,clothing,children & junior clothing,59100.0
+616,1100045,clothing,men's clothing,59700.0
+617,1100045,clothing,children & junior clothing,59600.0
+618,1100046,clothing,children & junior clothing,58500.0
+619,1100047,clothing,children & junior clothing,60500.0
+620,1100048,food,cookies,5700.0
+621,1100048,clothing,men's clothing,66500.0
+622,1100048,clothing,children & junior clothing,59700.0
+623,1100049,clothing,women's clothing,94900.0
+624,1100049,cosmetics,cleansing,90500.0
+625,1100049,clothing,women's clothing,101200.0
+626,1100050,clothing,children & junior clothing,54500.0
+627,1100050,clothing,women's clothing,97000.0
+628,1100050,clothing,Other Apparel,98700.0
+629,1100051,clothing,men's clothing,63200.0
+630,1100051,clothing,children & junior clothing,55900.0
+631,1100051,clothing,women's clothing,100900.0
+632,1100052,electronic products,cellphone,819200.0
+633,1100052,clothing,Other Apparel,96700.0
+634,1100052,clothing,children & junior clothing,56500.0
+635,1100053,clothing,sports wear,17500.0
+636,1100054,clothing,men's clothing,62500.0
+637,1100054,clothing,children & junior clothing,54900.0
+638,1100055,clothing,infant clothes,27300.0
+639,1100056,clothing,pajamas,12800.0
+640,1100057,clothing,Other Apparel,95900.0
+641,1100057,clothing,children & junior clothing,57700.0
+642,1100057,clothing,road shop brand,50300.0
+643,1100057,clothing,women's clothing,93600.0
+644,1100058,clothing,Other Apparel,93600.0
+645,1100058,clothing,men's clothing,66000.0
+646,1100058,clothing,men's clothing,62500.0
+647,1100058,clothing,women's clothing,99200.0
+648,1100059,clothing,children & junior clothing,61400.0
+649,1100059,clothing,infant clothes,31000.0
+650,1100060,household goods,paper towel,11800.0
+651,1100060,clothing,men's clothing,65000.0
+652,1100061,food,beverage,8900.0
+653,1100061,clothing,children & junior clothing,54600.0
+654,1100062,clothing,children & junior clothing,60700.0
+655,1100063,clothing,men's clothing,64000.0
+656,1100063,clothing,children & junior clothing,58100.0
+657,1100063,cosmetics,luxury cosmetics,526900.0
+658,1100063,clothing,Other Apparel,95500.0
+659,1100063,clothing,men's clothing,67300.0
+660,1100063,clothing,big size clothing,28300.0
+661,1100063,clothing,children & junior clothing,55100.0
+662,1100063,cosmetics,luxury cosmetics,522400.0
+663,1100063,food,cookies,5800.0
+664,1100063,clothing,Other Apparel,101000.0
+665,1100063,clothing,road shop brand,50400.0
+666,1100063,clothing,children & junior clothing,55900.0
+667,1100063,cosmetics,luxury cosmetics,523200.0
+668,1100064,clothing,children & junior clothing,61800.0
+669,1100065,clothing,children & junior clothing,56000.0
+670,1100067,household goods,paper towel,14000.0
+671,1100067,food,cookies,8900.0
+672,1100067,clothing,women's clothing,94300.0
+673,1100068,clothing,Other Apparel,93500.0
+674,1100068,clothing,women's clothing,96600.0
+675,1100069,household goods,paper towel,11500.0
+676,1100069,clothing,men's clothing,65700.0
+677,1100069,clothing,women's clothing,99400.0
+678,1100069,clothing,infant clothes,31100.0
+679,1100069,clothing,sports wear,17300.0
+680,1100069,clothing,women's clothing,96300.0
+681,1100070,clothing,men's clothing,58800.0
+682,1100070,clothing,road shop brand,48300.0
+683,1100070,clothing,sports wear,20800.0
+684,1100071,food,beverage,5700.0
+685,1100073,clothing,road shop brand,44500.0
+686,1100074,household goods,paper towel,16600.0
+687,1100075,clothing,infant clothes,30300.0
+688,1100076,food,cookies,12600.0
+689,1100076,food,beverage,6300.0
+690,1100076,clothing,men's clothing,59800.0
+691,1100076,clothing,underwear,18100.0
+692,1100076,clothing,infant clothes,35000.0
+693,1100077,clothing,Other Apparel,98100.0
+694,1100078,clothing,men's clothing,59000.0
+695,1100079,clothing,children & junior clothing,54700.0
+696,1100080,cosmetics,perfume,70600.0
+697,1100081,clothing,women's clothing,98000.0
+698,1100082,food,cookies,10700.0
+699,1100083,food,cookies,10700.0
+700,1100084,clothing,women's clothing,94700.0
+701,1100085,clothing,Other Apparel,93200.0
+702,1100086,clothing,children & junior clothing,58600.0
+703,1100087,clothing,children & junior clothing,61400.0
+704,1100088,household goods,paper towel,16800.0
+705,1100088,food,beverage,13800.0
+706,1100088,clothing,children & junior clothing,60000.0
+707,1100089,clothing,road shop brand,42400.0
+708,1100090,clothing,underwear,16700.0
+709,1100091,clothing,children & junior clothing,58000.0
+710,1100093,clothing,children & junior clothing,59500.0
+711,1100094,food,cookies,13900.0
+712,1100094,clothing,Other Apparel,96200.0
+713,1100094,clothing,road shop brand,46100.0
+714,1100094,clothing,sports wear,13800.0
+715,1100094,clothing,women's clothing,99400.0
+716,1100094,clothing,infant clothes,26000.0
+717,1100094,clothing,women's clothing,92900.0
+718,1100094,clothing,infant clothes,28300.0
+719,1100095,food,cookies,8100.0
+720,1100096,clothing,men's clothing,65300.0
+721,1100097,household goods,household goods,49500.0
+722,1100097,clothing,sports wear,13100.0
+723,1100097,clothing,women's clothing,95600.0
+724,1100097,clothing,road shop brand,42500.0
+725,1100097,clothing,children & junior clothing,54200.0
+726,1100097,clothing,women's clothing,96000.0
+727,1100098,food,aquaculture products,39600.0
+728,1100098,food,beverage,5000.0
+729,1100099,clothing,children & junior clothing,60000.0
+730,1100100,clothing,men's clothing,65000.0
+731,1100101,clothing,women's clothing,101000.0
+732,1100102,clothing,children & junior clothing,60100.0
+733,1100103,clothing,children & junior clothing,60900.0
+734,1100104,household goods,paper towel,15500.0
+735,1100104,clothing,children & junior clothing,56200.0
+736,1100105,clothing,women's clothing,99700.0
+737,1100108,clothing,children & junior clothing,61200.0
+738,1100109,clothing,children & junior clothing,56400.0
+739,1100110,clothing,men's clothing,64900.0
+740,1100111,food,beverage,10000.0
+741,1100111,clothing,children & junior clothing,61300.0
+742,1100112,clothing,road shop brand,43700.0
+743,1100112,clothing,sports wear,19500.0
+744,1100113,clothing,children & junior clothing,56500.0
+745,1100114,clothing,men's clothing,60700.0
+746,1100114,clothing,children & junior clothing,62200.0
+747,1100114,clothing,women's clothing,98500.0
+748,1100114,clothing,women's clothing,95500.0
+749,1100116,household goods,household goods,44300.0
+750,1100117,household goods,paper towel,13400.0
+751,1100117,clothing,Other Apparel,95200.0
+752,1100118,clothing,Other Apparel,96700.0
+753,1100119,food,cookies,12300.0
+754,1100120,clothing,road shop brand,45100.0
+755,1100120,clothing,maternity,90600.0
+756,1100122,clothing,road shop brand,46700.0
+757,1100122,clothing,infant clothes,27900.0
+758,1100123,clothing,Other Apparel,97600.0
+759,1100123,clothing,men's clothing,61300.0
+760,1100123,clothing,men's clothing,61400.0
+761,1100123,clothing,women's clothing,96400.0
+762,1100124,clothing,children & junior clothing,62400.0
+763,1100124,clothing,infant clothes,34700.0
+764,1100126,clothing,women's clothing,100500.0
+765,1100128,clothing,children & junior clothing,54800.0
+766,1100129,clothing,children & junior clothing,53800.0
+767,1100129,clothing,women's clothing,98100.0
+768,1100129,clothing,women's clothing,98600.0
+769,1100130,clothing,women's clothing,101900.0
+770,1100132,clothing,children & junior clothing,56800.0
+771,1100133,food,cookies,12200.0
+772,1100133,clothing,men's clothing,62500.0
+773,1100134,clothing,women's clothing,96600.0
+774,1100135,food,cookies,9800.0
+775,1100136,clothing,children & junior clothing,56800.0
+776,1100137,household goods,paper towel,9600.0
+777,1100138,clothing,men's clothing,59900.0
+778,1100140,clothing,men's clothing,62000.0
+779,1100141,clothing,children & junior clothing,59100.0
+780,1100142,household goods,paper towel,14900.0
+781,1100142,clothing,men's clothing,64000.0
+782,1100142,clothing,road shop brand,42500.0
+783,1100142,clothing,women's clothing,95200.0
+784,1100142,clothing,women's clothing,98400.0
+785,1100143,clothing,children & junior clothing,56500.0
+786,1100144,clothing,children & junior clothing,57900.0
+787,1100145,clothing,infant clothes,34800.0
+788,1100145,clothing,maternity,85600.0
+789,1100146,clothing,children & junior clothing,54000.0
+790,1100147,clothing,children & junior clothing,55200.0
+791,1100148,clothing,men's clothing,65400.0
+792,1100149,clothing,men's clothing,59300.0
+793,1100150,clothing,women's clothing,99100.0
+794,1100151,clothing,children & junior clothing,56800.0
+795,1100152,clothing,women's clothing,93400.0
+796,1100153,food,agricultural products,20000.0
+797,1100154,food,agricultural products,20300.0
+798,1100155,household goods,paper towel,17300.0
+799,1100155,food,agricultural products,16100.0
+800,1100156,clothing,Other Apparel,97600.0
+801,1100156,clothing,women's clothing,96600.0
+802,1100156,food,beverage,7500.0
+803,1100156,clothing,Other Apparel,99800.0
+804,1100157,clothing,women's clothing,97200.0
+805,1100158,household goods,paper towel,16000.0
+806,1100158,clothing,children & junior clothing,59000.0
+807,1100160,clothing,children & junior clothing,54700.0
+808,1100161,clothing,women's clothing,98000.0
+809,1100162,clothing,children & junior clothing,55900.0
+810,1100164,clothing,children & junior clothing,54000.0
+811,1100164,clothing,women's clothing,96500.0
+812,1100165,clothing,women's clothing,93900.0
+813,1100166,clothing,children & junior clothing,57700.0
+814,1100168,clothing,children & junior clothing,58600.0
+815,1100169,clothing,women's clothing,96100.0
+816,1100170,clothing,children & junior clothing,54500.0
+817,1100171,clothing,children & junior clothing,57700.0
+818,1100173,clothing,children & junior clothing,54600.0
+819,1100177,clothing,children & junior clothing,55800.0
+820,1100178,food,cookies,11700.0
+821,1100179,clothing,children & junior clothing,55600.0
+822,1100180,electronic products,video sound,673000.0
+823,1100180,household goods,paper towel,11300.0
+824,1100180,food,health food,97000.0
+825,1100180,food,cookies,11300.0
+826,1100180,clothing,men's clothing,67600.0
+827,1100180,clothing,underwear,18000.0
+828,1100180,clothing,women's clothing,101000.0
+829,1100180,clothing,maternity,83000.0
+830,1100180,cosmetics,luxury cosmetics,524900.0
+831,1100181,clothing,children & junior clothing,60500.0
+832,1100183,clothing,children & junior clothing,54200.0
+833,1100183,clothing,women's clothing,97900.0
+834,1100184,clothing,road shop brand,50300.0
+835,1100186,clothing,children & junior clothing,60500.0
+836,1100187,clothing,children & junior clothing,59800.0
+837,1100189,clothing,children & junior clothing,57900.0
+838,1100190,clothing,women's clothing,95800.0
+839,1100191,clothing,children & junior clothing,57200.0
+840,1100192,household goods,household goods,42700.0
+841,1100192,food,cookies,14400.0
+842,1100192,clothing,children & junior clothing,56600.0
+843,1100193,clothing,children & junior clothing,55900.0
+844,1100194,clothing,men's clothing,59800.0
+845,1100195,household goods,paper towel,12400.0
+846,1100195,clothing,Other Apparel,100100.0
+847,1100195,clothing,road shop brand,49000.0
+848,1100195,clothing,children & junior clothing,62600.0
+849,1100195,food,health food,100100.0
+850,1100195,food,beverage,7800.0
+851,1100196,clothing,men's clothing,59300.0
+852,1100197,household goods,paper towel,14500.0
+853,1100198,clothing,children & junior clothing,61400.0
+854,1100199,clothing,children & junior clothing,56400.0
+855,1100200,clothing,children & junior clothing,55000.0
+856,1100200,clothing,infant clothes,29500.0
+857,1100201,household goods,paper towel,17200.0
+858,1100201,food,beverage,11500.0
+859,1100201,clothing,Other Apparel,94800.0
+860,1100201,clothing,sports wear,14200.0
+861,1100201,clothing,women's clothing,102000.0
+862,1100201,clothing,infant clothes,34100.0
+863,1100201,clothing,women's clothing,100200.0
+864,1100202,clothing,men's clothing,61000.0
+865,1100203,clothing,big size clothing,27400.0
+866,1100204,clothing,women's clothing,97600.0
+867,1100205,clothing,children & junior clothing,54000.0
+868,1100206,clothing,Other Apparel,101800.0
+869,1100207,clothing,Other Apparel,101400.0
+870,1100208,clothing,Other Apparel,96000.0
+871,1100208,clothing,men's clothing,65200.0
+872,1100208,clothing,men's clothing,62200.0
+873,1100208,clothing,women's clothing,94700.0
+874,1100209,clothing,children & junior clothing,58600.0
+875,1100209,clothing,infant clothes,26800.0
+876,1100210,clothing,children & junior clothing,59900.0
+877,1100211,clothing,infant clothes,29100.0
+878,1100212,clothing,men's clothing,62800.0
+879,1100213,food,aquaculture products,37800.0
+880,1100214,clothing,women's clothing,93600.0
+881,1100215,clothing,children & junior clothing,60100.0
+882,1100216,food,beverage,12200.0
+883,1100216,clothing,men's clothing,58600.0
+884,1100216,clothing,women's clothing,94000.0
+885,1100216,household goods,detergent,13100.0
+886,1100216,food,processed food,14300.0
+887,1100216,food,agricultural products,20600.0
+888,1100216,clothing,Other Apparel,94900.0
+889,1100216,clothing,men's clothing,64700.0
+890,1100216,clothing,children & junior clothing,62500.0
+891,1100217,clothing,women's clothing,96500.0
+892,1100219,electronic products,video sound,674500.0
+893,1100219,clothing,women's clothing,99600.0
+894,1100220,household goods,paper towel,13900.0
+895,1100222,clothing,children & junior clothing,55300.0
+896,1100223,clothing,children & junior clothing,55300.0
+897,1100223,clothing,women's clothing,98700.0
+898,1100223,clothing,men's clothing,61300.0
+899,1100223,clothing,road shop brand,44500.0
+900,1100223,clothing,women's clothing,95200.0
+901,1100224,clothing,infant clothes,28200.0
+902,1100225,clothing,children & junior clothing,54600.0
+903,1100226,clothing,children & junior clothing,56800.0
+904,1100227,clothing,children & junior clothing,59100.0
+905,1100229,clothing,men's clothing,60400.0
+906,1100231,clothing,children & junior clothing,58300.0
+907,1100232,clothing,children & junior clothing,59500.0
+908,1100233,clothing,Other Apparel,92900.0
+909,1100235,food,cookies,7000.0
+910,1100235,clothing,children & junior clothing,60100.0
+911,1100236,food,cookies,6400.0
+912,1100237,food,beverage,10900.0
+913,1100238,food,cookies,11800.0
+914,1100239,household goods,paper towel,17200.0
+915,1100241,clothing,children & junior clothing,56800.0
+916,1100242,clothing,Other Apparel,100600.0
+917,1100242,clothing,children & junior clothing,60600.0
+918,1100242,clothing,women's clothing,99200.0
+919,1100243,clothing,children & junior clothing,54800.0
+920,1100244,clothing,men's clothing,61300.0
+921,1100245,clothing,men's clothing,62000.0
+922,1100246,clothing,men's clothing,61500.0
+923,1100246,clothing,infant clothes,29900.0
+924,1100247,clothing,women's clothing,98500.0
+925,1100248,clothing,children & junior clothing,56500.0
+926,1100249,clothing,children & junior clothing,62000.0
+927,1100249,clothing,pajamas,20000.0
+928,1100252,clothing,children & junior clothing,60800.0
+929,1100253,clothing,children & junior clothing,54700.0
+930,1100254,clothing,Other Apparel,99200.0
+931,1100254,clothing,infant clothes,33600.0
+932,1100256,clothing,men's clothing,66300.0
+933,1100256,clothing,road shop brand,48800.0
+934,1100259,food,cookies,6300.0
+935,1100261,clothing,children & junior clothing,53500.0
+936,1100262,cosmetics,luxury cosmetics,525000.0
+937,1100264,clothing,children & junior clothing,55400.0
+938,1100264,clothing,women's clothing,98700.0
+939,1100264,clothing,road shop brand,50000.0
+940,1100264,clothing,women's clothing,93600.0
+941,1100265,food,health food,96900.0
+942,1100265,food,agricultural products,13900.0
+943,1100265,food,beverage,12700.0
+944,1100265,clothing,men's clothing,66100.0
+945,1100265,clothing,women's clothing,98000.0
+946,1100266,food,cookies,12700.0
+947,1100266,clothing,Other Apparel,93100.0
+948,1100267,food,cookies,14700.0
+949,1100267,clothing,Other Apparel,98000.0
+950,1100268,food,cookies,13300.0
+951,1100268,clothing,Other Apparel,95500.0
+952,1100269,clothing,children & junior clothing,58300.0
+953,1100270,clothing,children & junior clothing,57500.0
+954,1100272,food,beverage,5900.0
+955,1110002,household goods,household goods,43700.0
+956,1110003,food,cookies,12200.0
+957,1110003,food,aquaculture products,39400.0
+958,1110003,food,beverage,9900.0
+959,1110003,clothing,children & junior clothing,61900.0
+960,1110004,clothing,men's clothing,59800.0
+961,1110004,clothing,children & junior clothing,57700.0
+962,1110005,cosmetics,suncare,50200.0
+963,1110006,clothing,sports wear,13600.0
+964,1110006,clothing,children & junior clothing,56300.0
+965,1110007,household goods,paper towel,15600.0
+966,1110007,food,beverage,7600.0
+967,1110007,clothing,children & junior clothing,60600.0
+968,1110008,food,cookies,11400.0
+969,1110008,clothing,Other Apparel,98900.0
+970,1110008,clothing,road shop brand,45400.0
+971,1110008,clothing,infant clothes,28600.0
+972,1110008,food,cookies,14500.0
+973,1110008,clothing,Other Apparel,95400.0
+974,1110008,clothing,women's clothing,95400.0
+975,1110008,clothing,infant clothes,29400.0
+976,1110009,food,health food,98300.0
+977,1110009,clothing,road shop brand,50300.0
+978,1110009,clothing,infant clothes,27900.0
+979,1110009,food,cookies,7000.0
+980,1110009,clothing,women's clothing,94700.0
+981,1110010,food,aquaculture products,34300.0
+982,1110010,clothing,children & junior clothing,56200.0
+983,1110011,clothing,children & junior clothing,56200.0
+984,1110012,household goods,paper towel,14400.0
+985,1110013,clothing,men's clothing,60400.0
+986,1110013,clothing,children & junior clothing,57600.0
+987,1110014,clothing,men's clothing,66100.0
+988,1110014,clothing,women's clothing,100300.0
+989,1110014,clothing,women's clothing,100400.0
+990,1110015,clothing,men's clothing,63700.0
+991,1110016,food,beverage,13000.0
+992,1110017,food,beverage,10300.0
+993,1110017,clothing,children & junior clothing,62400.0
+994,1110018,clothing,men's clothing,62800.0
+995,1110018,clothing,women's clothing,95400.0
+996,1110018,clothing,men's clothing,64700.0
+997,1110018,clothing,women's clothing,97300.0
+998,1110019,food,instant food,43700.0
+999,1110019,clothing,men's clothing,58800.0
+1000,1110019,clothing,children & junior clothing,56900.0
+1001,1110019,clothing,Other Apparel,97000.0
+1002,1110020,food,agricultural products,19600.0
+1003,1110020,clothing,men's clothing,65200.0
+1004,1110021,clothing,men's clothing,58900.0
+1005,1110021,clothing,children & junior clothing,56600.0
+1006,1110021,clothing,women's clothing,99200.0
+1007,1110021,clothing,Other Apparel,95700.0
+1008,1110022,food,health food,97800.0
+1009,1110022,clothing,men's clothing,58800.0
+1010,1110022,clothing,women's clothing,97500.0
+1011,1110023,clothing,children & junior clothing,58400.0
+1012,1110024,clothing,road shop brand,49600.0
+1013,1110024,clothing,children & junior clothing,60500.0
+1014,1110025,clothing,children & junior clothing,54700.0
+1015,1110026,clothing,men's clothing,67000.0
+1016,1110026,clothing,children & junior clothing,57700.0
+1017,1110027,clothing,men's clothing,65500.0
+1018,1110027,clothing,children & junior clothing,55000.0
+1019,1110028,clothing,children & junior clothing,53800.0
+1020,1110029,clothing,children & junior clothing,60500.0
+1021,1110029,clothing,maternity,86000.0
+1022,1110029,clothing,women's clothing,98700.0
+1023,1110030,clothing,children & junior clothing,53400.0
+1024,1110030,clothing,women's clothing,93600.0
+1025,1110030,household goods,paper towel,10000.0
+1026,1110030,clothing,men's clothing,61900.0
+1027,1110030,clothing,women's clothing,93800.0
+1028,1110031,clothing,children & junior clothing,56100.0
+1029,1110032,clothing,road shop brand,49500.0
+1030,1110032,clothing,women's clothing,98100.0
+1031,1110033,clothing,children & junior clothing,56900.0
+1032,1110034,clothing,women's clothing,97400.0
+1033,1110034,clothing,infant clothes,29500.0
+1034,1110035,clothing,children & junior clothing,55600.0
+1035,1110036,clothing,men's clothing,61500.0
+1036,1110036,clothing,children & junior clothing,56900.0
+1037,1110037,household goods,paper towel,14600.0
+1038,1110037,clothing,men's clothing,66600.0
+1039,1110037,clothing,sports wear,12600.0
+1040,1110037,clothing,children & junior clothing,53800.0
+1041,1110037,clothing,children & junior clothing,61100.0
+1042,1110037,clothing,women's clothing,101400.0
+1043,1110038,clothing,children & junior clothing,58100.0
+1044,1110039,clothing,men's clothing,58500.0
+1045,1110039,clothing,children & junior clothing,61400.0
+1046,1110040,clothing,men's clothing,66400.0
+1047,1110041,household goods,paper towel,13100.0
+1048,1110041,clothing,Other Apparel,98800.0
+1049,1110041,clothing,children & junior clothing,58500.0
+1050,1110041,clothing,Other Apparel,100800.0
+1051,1110041,clothing,road shop brand,47200.0
+1052,1110041,clothing,children & junior clothing,55900.0
+1053,1110041,clothing,women's clothing,95900.0
+1054,1110042,household goods,household goods,47500.0
+1055,1110042,clothing,men's clothing,61900.0
+1056,1110042,clothing,road shop brand,44400.0
+1057,1110042,clothing,men's clothing,59500.0
+1058,1110042,clothing,women's clothing,98000.0
+1059,1110043,clothing,Other Apparel,97300.0
+1060,1110043,clothing,men's clothing,58800.0
+1061,1110043,clothing,children & junior clothing,58300.0
+1062,1110043,clothing,maternity,90600.0
+1063,1110044,clothing,men's clothing,58600.0
+1064,1110044,clothing,women's clothing,101700.0
+1065,1110044,clothing,women's clothing,97600.0
+1066,1110045,clothing,children & junior clothing,60800.0
+1067,1110045,clothing,women's clothing,98000.0
+1068,1110045,clothing,women's clothing,100000.0
+1069,1110046,clothing,sports wear,13900.0
+1070,1110046,clothing,children & junior clothing,61100.0
+1071,1110046,clothing,women's clothing,98500.0
+1072,1110047,clothing,sports wear,13200.0
+1073,1110047,clothing,children & junior clothing,54000.0
+1074,1110047,clothing,infant clothes,33600.0
+1075,1110048,household goods,paper towel,14700.0
+1076,1110048,clothing,road shop brand,43300.0
+1077,1110048,clothing,children & junior clothing,59500.0
+1078,1110048,clothing,women's clothing,95100.0
+1079,1110048,clothing,women's clothing,97600.0
+1080,1110049,household goods,paper towel,14700.0
+1081,1110049,clothing,sports wear,18700.0
+1082,1110049,clothing,children & junior clothing,58800.0
+1083,1110049,clothing,maternity,85900.0
+1084,1110049,cosmetics,skin care,23300.0
+1085,1110050,clothing,men's clothing,64100.0
+1086,1110050,clothing,children & junior clothing,59500.0
+1087,1110051,clothing,men's clothing,61900.0
+1088,1110052,electronic products,video sound,675100.0
+1089,1110052,food,health food,99400.0
+1090,1110052,food,aquaculture products,35600.0
+1091,1110052,food,instant food,43000.0
+1092,1110052,clothing,men's clothing,67100.0
+1093,1110052,clothing,road shop brand,49400.0
+1094,1110052,food,health food,96100.0
+1095,1110052,electronic products,cellphone,817800.0
+1096,1110052,food,cookies,11200.0
+1097,1110052,clothing,road shop brand,42000.0
+1098,1110052,clothing,sports wear,17100.0
+1099,1110052,clothing,children & junior clothing,62500.0
+1100,1110052,clothing,infant clothes,28700.0
+1101,1110052,clothing,road shop brand,46100.0
+1102,1110052,clothing,children & junior clothing,62200.0
+1103,1110052,clothing,women's clothing,97100.0
+1104,1110052,clothing,women's clothing,100900.0
+1105,1110052,electronic products,cellphone,814300.0
+1106,1110052,clothing,men's clothing,65900.0
+1107,1110052,clothing,road shop brand,47500.0
+1108,1110052,clothing,children & junior clothing,60300.0
+1109,1110052,clothing,women's clothing,100200.0
+1110,1110052,electronic products,kitchen appliances,346800.0
+1111,1110052,electronic products,cellphone,817300.0
+1112,1110052,household goods,paper towel,17100.0
+1113,1110052,food,agricultural products,19700.0
+1114,1110052,food,beverage,6000.0
+1115,1110052,clothing,children & junior clothing,62500.0
+1116,1110052,clothing,infant clothes,31800.0
+1117,1110053,food,cookies,12700.0
+1118,1110053,clothing,men's clothing,64100.0
+1119,1110053,clothing,children & junior clothing,53700.0
+1120,1110054,clothing,sports wear,18400.0
+1121,1110055,clothing,road shop brand,47400.0
+1122,1110055,clothing,children & junior clothing,56200.0
+1123,1110056,food,aquaculture products,32300.0
+1124,1110056,clothing,children & junior clothing,61300.0
+1125,1110056,clothing,women's clothing,93100.0
+1126,1110057,clothing,children & junior clothing,53800.0
+1127,1110057,clothing,women's clothing,96500.0
+1128,1110057,clothing,women's clothing,98200.0
+1129,1110058,clothing,men's clothing,60700.0
+1130,1110058,clothing,road shop brand,43900.0
+1131,1110059,clothing,children & junior clothing,55100.0
+1132,1110060,clothing,infant clothes,30300.0
+1133,1110061,food,cookies,9400.0
+1134,1110061,clothing,children & junior clothing,56200.0
+1135,1110062,clothing,children & junior clothing,54600.0
+1136,1110063,clothing,infant clothes,34300.0
+1137,1110064,household goods,paper towel,14100.0
+1138,1110064,clothing,men's clothing,62300.0
+1139,1110064,clothing,sports wear,16000.0
+1140,1110064,clothing,children & junior clothing,59300.0
+1141,1110065,food,beverage,11100.0
+1142,1110066,food,health food,94100.0
+1143,1110066,clothing,children & junior clothing,61600.0
+1144,1110066,clothing,Other Apparel,101400.0
+1145,1110067,clothing,road shop brand,42300.0
+1146,1110067,clothing,children & junior clothing,60500.0
+1147,1110068,clothing,road shop brand,46100.0
+1148,1110068,clothing,children & junior clothing,57200.0
+1149,1110069,clothing,children & junior clothing,53600.0
+1150,1110069,clothing,women's clothing,100600.0
+1151,1110069,clothing,Other Apparel,94700.0
+1152,1110070,household goods,paper towel,17500.0
+1153,1110070,clothing,children & junior clothing,55500.0
+1154,1110071,clothing,children & junior clothing,59000.0
+1155,1110072,clothing,men's clothing,59700.0
+1156,1110072,clothing,children & junior clothing,55100.0
+1157,1110072,clothing,women's clothing,101700.0
+1158,1110072,clothing,Other Apparel,96900.0
+1159,1110072,clothing,men's clothing,63600.0
+1160,1110072,clothing,children & junior clothing,59500.0
+1161,1110072,clothing,infant clothes,33300.0
+1162,1110073,household goods,household goods,44300.0
+1163,1110074,food,cookies,5800.0
+1164,1110074,clothing,sports wear,20500.0
+1165,1110074,clothing,children & junior clothing,61100.0
+1166,1110074,clothing,infant clothes,28400.0
+1167,1110075,food,cookies,13200.0
+1168,1110075,clothing,road shop brand,42100.0
+1169,1110076,household goods,paper towel,13300.0
+1170,1110076,food,snack,8300.0
+1171,1110077,food,cookies,9800.0
+1172,1110077,clothing,men's clothing,63700.0
+1173,1110078,clothing,men's clothing,66100.0
+1174,1110079,clothing,children & junior clothing,58700.0
+1175,1110080,clothing,children & junior clothing,59200.0
+1176,1110081,clothing,men's clothing,63100.0
+1177,1110082,clothing,children & junior clothing,62500.0
+1178,1110083,clothing,infant clothes,31000.0
+1179,1110084,clothing,children & junior clothing,58600.0
+1180,1110085,clothing,sports wear,15800.0
+1181,1110086,clothing,Other Apparel,98500.0
+1182,1110086,clothing,women's clothing,94000.0
+1183,1110086,household goods,paper towel,16600.0
+1184,1110086,food,cookies,10500.0
+1185,1110086,clothing,women's clothing,94200.0
+1186,1110087,clothing,men's clothing,65400.0
+1187,1110087,clothing,children & junior clothing,56900.0
+1188,1110088,clothing,children & junior clothing,61600.0
+1189,1110089,clothing,maternity,87000.0
+1190,1110090,household goods,paper towel,12600.0
+1191,1110091,clothing,women's clothing,93900.0
+1192,1110092,clothing,road shop brand,50800.0
+1193,1110093,clothing,children & junior clothing,58700.0
+1194,1110094,clothing,children & junior clothing,57900.0
+1195,1110095,clothing,women's clothing,92900.0
+1196,1110096,clothing,women's clothing,93200.0
+1197,1110097,clothing,men's clothing,61100.0
+1198,1110098,clothing,children & junior clothing,56200.0
+1199,1110100,food,cookies,6200.0
+1200,1110100,clothing,men's clothing,61700.0
+1201,1110100,clothing,children & junior clothing,57100.0
+1202,1110101,clothing,road shop brand,48900.0
+1203,1110103,food,cookies,7400.0
+1204,1110103,clothing,road shop brand,48200.0
+1205,1110103,clothing,children & junior clothing,59100.0
+1206,1110103,clothing,women's clothing,97700.0
+1207,1110103,clothing,Other Apparel,100600.0
+1208,1110103,clothing,children & junior clothing,55800.0
+1209,1110104,clothing,children & junior clothing,60300.0
+1210,1110104,clothing,women's clothing,99200.0
+1211,1110105,clothing,sports wear,17300.0
+1212,1110105,clothing,women's clothing,94800.0
+1213,1110106,clothing,children & junior clothing,61000.0
+1214,1110107,electronic products,video sound,681000.0
+1215,1110107,clothing,men's clothing,59000.0
+1216,1110108,clothing,men's clothing,61600.0
+1217,1110108,clothing,children & junior clothing,55900.0
+1218,1110109,clothing,road shop brand,48000.0
+1219,1110109,clothing,women's clothing,97000.0
+1220,1110110,clothing,children & junior clothing,56700.0
+1221,1110111,clothing,children & junior clothing,62300.0
+1222,1110112,household goods,paper towel,12400.0
+1223,1110112,clothing,sports wear,13000.0
+1224,1110113,clothing,children & junior clothing,56200.0
+1225,1110115,clothing,children & junior clothing,57900.0
+1226,1110116,household goods,household goods,50700.0
+1227,1110116,clothing,men's clothing,66400.0
+1228,1110118,clothing,men's clothing,62200.0
+1229,1110119,food,agricultural products,19000.0
+1230,1110119,clothing,children & junior clothing,59100.0
+1231,1110120,clothing,men's clothing,63800.0
+1232,1110121,household goods,household goods,48900.0
+1233,1110122,clothing,women's clothing,94600.0
+1234,1110123,clothing,men's clothing,63700.0
+1235,1110124,food,cookies,8100.0
+1236,1110125,cosmetics,body products,64800.0
+1237,1110128,clothing,children & junior clothing,56200.0
+1238,1110129,clothing,Other Apparel,93900.0
+1239,1110129,clothing,men's clothing,62600.0
+1240,1110129,clothing,women's clothing,98400.0
+1241,1110130,clothing,men's clothing,58800.0
+1242,1110131,clothing,children & junior clothing,57200.0
+1243,1110132,clothing,children & junior clothing,59100.0
+1244,1110133,clothing,children & junior clothing,58900.0
+1245,1110134,food,health food,96600.0
+1246,1110134,food,cookies,8200.0
+1247,1110135,clothing,men's clothing,67100.0
+1248,1110136,clothing,children & junior clothing,62600.0
+1249,1110137,clothing,road shop brand,45900.0
+1250,1110138,clothing,children & junior clothing,62200.0
+1251,1110139,clothing,children & junior clothing,60200.0
+1252,1110140,clothing,women's clothing,96800.0
+1253,1110141,clothing,men's clothing,66900.0
+1254,1110141,clothing,women's clothing,94400.0
+1255,1110141,food,processed food,16100.0
+1256,1110141,food,health food,95600.0
+1257,1110141,food,aquaculture products,32400.0
+1258,1110141,food,beverage,12500.0
+1259,1110141,clothing,big size clothing,24900.0
+1260,1110141,cosmetics,body products,68500.0
+1261,1110141,cosmetics,hair,3200.0
+1262,1110143,clothing,children & junior clothing,59500.0
+1263,1110146,household goods,paper towel,12400.0
+1264,1110146,clothing,children & junior clothing,58500.0
+1265,1110148,food,beverage,8100.0
+1266,1110148,clothing,men's clothing,67100.0
+1267,1110150,clothing,men's clothing,62600.0
+1268,1110150,clothing,road shop brand,49700.0
+1269,1110151,food,cookies,10900.0
+1270,1110151,food,agricultural products,15800.0
+1271,1110151,food,aquaculture products,35700.0
+1272,1110153,clothing,children & junior clothing,57800.0
+1273,1110155,food,cookies,12600.0
+1274,1110156,clothing,women's clothing,95300.0
+1275,1110158,food,aquaculture products,39000.0
+1276,1110160,food,aquaculture products,39500.0
+1277,1110161,clothing,men's clothing,66900.0
+1278,1110162,clothing,children & junior clothing,59200.0
+1279,1110163,clothing,men's clothing,61000.0
+1280,1110164,clothing,children & junior clothing,59800.0
+1281,1110165,clothing,children & junior clothing,53800.0
+1282,1110166,clothing,women's clothing,102000.0
+1283,1110167,clothing,children & junior clothing,62200.0
+1284,1110169,clothing,children & junior clothing,61100.0
+1285,1110170,clothing,women's clothing,95300.0
+1286,1110171,clothing,women's clothing,99100.0
+1287,1110172,clothing,children & junior clothing,60700.0
+1288,1110174,clothing,children & junior clothing,61600.0
+1289,1110175,clothing,children & junior clothing,56100.0
+1290,1110176,household goods,paper towel,14400.0
+1291,1110177,food,cookies,13600.0
+1292,1110177,food,beverage,10800.0
+1293,1110177,clothing,women's clothing,98100.0
+1294,1110178,clothing,men's clothing,62100.0
+1295,1110178,clothing,women's clothing,100200.0
+1296,1110178,clothing,women's clothing,97900.0
+1297,1110179,clothing,men's clothing,62600.0
+1298,1110179,clothing,road shop brand,50800.0
+1299,1110179,clothing,sports wear,15200.0
+1300,1110179,clothing,children & junior clothing,62000.0
+1301,1110179,clothing,women's clothing,99800.0
+1302,1110179,household goods,paper towel,15800.0
+1303,1110179,clothing,Other Apparel,100700.0
+1304,1110179,clothing,women's clothing,94600.0
+1305,1110180,clothing,children & junior clothing,61500.0
+1306,1110182,clothing,children & junior clothing,58700.0
+1307,1110183,household goods,household goods,48100.0
+1308,1110183,food,cookies,11000.0
+1309,1110183,clothing,sports wear,21100.0
+1310,1110183,clothing,women's clothing,93700.0
+1311,1110183,clothing,road shop brand,48900.0
+1312,1110183,clothing,children & junior clothing,60600.0
+1313,1110183,clothing,women's clothing,97700.0
+1314,1110183,clothing,infant clothes,26500.0
+1315,1110184,food,agricultural products,14700.0
+1316,1110184,food,aquaculture products,38400.0
+1317,1110185,clothing,men's clothing,63400.0
+1318,1110186,clothing,men's clothing,59800.0
+1319,1110187,clothing,men's clothing,59300.0
+1320,1110188,clothing,children & junior clothing,57500.0
+1321,1110189,household goods,paper towel,12500.0
+1322,1110189,food,cookies,14500.0
+1323,1110189,clothing,men's clothing,64000.0
+1324,1110190,clothing,children & junior clothing,56900.0
+1325,1110191,household goods,paper towel,10700.0
+1326,1110191,clothing,road shop brand,46600.0
+1327,1110191,clothing,underwear,9500.0
+1328,1110191,clothing,infant clothes,28700.0
+1329,1110194,clothing,children & junior clothing,61300.0
+1330,1110195,clothing,Other Apparel,94500.0
+1331,1110195,clothing,children & junior clothing,60700.0
+1332,1110195,clothing,women's clothing,96300.0
+1333,1110195,food,cookies,7100.0
+1334,1110195,clothing,women's clothing,94800.0
+1335,1110196,clothing,children & junior clothing,55800.0
+1336,1110197,clothing,pajamas,15500.0
+1337,1110198,clothing,men's clothing,66500.0
+1338,1110198,clothing,women's clothing,96000.0
+1339,1110198,food,snack,14400.0
+1340,1110198,clothing,women's clothing,97800.0
+1341,1110199,clothing,children & junior clothing,55900.0
+1342,1110202,clothing,women's clothing,97100.0
+1343,1110203,food,cookies,6300.0
+1344,1110203,clothing,men's clothing,65400.0
+1345,1110203,clothing,road shop brand,47200.0
+1346,1110203,clothing,sports wear,20600.0
+1347,1110203,clothing,children & junior clothing,60300.0
+1348,1110203,clothing,women's clothing,94900.0
+1349,1110203,clothing,infant clothes,29500.0
+1350,1110203,clothing,maternity,84400.0
+1351,1110203,clothing,women's clothing,96700.0
+1352,1110204,clothing,children & junior clothing,57400.0
+1353,1110205,clothing,women's clothing,94100.0
+1354,1110206,food,beverage,11200.0
+1355,1110207,clothing,men's clothing,65600.0
+1356,1110207,clothing,women's clothing,99700.0
+1357,1110207,clothing,Other Apparel,99200.0
+1358,1110208,clothing,children & junior clothing,58900.0
+1359,1110210,clothing,children & junior clothing,57400.0
+1360,1110211,electronic products,cellphone,819400.0
+1361,1110211,clothing,children & junior clothing,58300.0
+1362,1110211,clothing,infant clothes,34900.0
+1363,1110211,clothing,Other Apparel,95700.0
+1364,1110211,clothing,men's clothing,63600.0
+1365,1110211,clothing,children & junior clothing,60100.0
+1366,1110211,clothing,pajamas,12100.0
+1367,1110211,cosmetics,perfume,65400.0
+1368,1110211,clothing,men's clothing,61100.0
+1369,1110211,clothing,children & junior clothing,61400.0
+1370,1110211,clothing,women's clothing,93200.0
+1371,1110211,clothing,Other Apparel,94500.0
+1372,1110211,electronic products,video sound,677000.0
+1373,1110211,clothing,men's clothing,61000.0
+1374,1110211,clothing,road shop brand,48300.0
+1375,1110211,clothing,children & junior clothing,60300.0
+1376,1110211,cosmetics,hair,2200.0
+1377,1110211,clothing,children & junior clothing,55100.0
+1378,1110211,clothing,women's clothing,95000.0
+1379,1110212,clothing,children & junior clothing,56700.0
+1380,1110213,clothing,men's clothing,59400.0
+1381,1110215,food,cookies,10000.0
+1382,1110215,clothing,children & junior clothing,62200.0
+1383,1110215,clothing,women's clothing,100900.0
+1384,1110215,clothing,infant clothes,33900.0
+1385,1110215,clothing,pajamas,13400.0
+1386,1110215,clothing,women's clothing,93700.0
+1387,1110216,clothing,infant clothes,28800.0
+1388,1110217,food,processed food,12900.0
+1389,1110217,food,aquaculture products,37400.0
+1390,1600001,clothing,children & junior clothing,61600.0
+1391,1600002,clothing,children & junior clothing,59000.0
+1392,1600002,clothing,women's clothing,98100.0
+1393,1600002,clothing,road shop brand,45100.0
+1394,1600002,clothing,women's clothing,97000.0
+1395,1600003,food,cookies,13900.0
+1396,1600004,clothing,children & junior clothing,57500.0
+1397,1600005,clothing,men's clothing,65200.0
+1398,1600006,clothing,men's clothing,58700.0
+1399,1600006,clothing,sports wear,19700.0
+1400,2100001,household goods,paper towel,14000.0
+1401,2100001,clothing,men's clothing,64000.0
+1402,2100002,clothing,children & junior clothing,61600.0
+1403,2100003,clothing,road shop brand,48200.0
+1404,2100003,clothing,children & junior clothing,56900.0
+1405,2100003,clothing,infant clothes,28000.0
+1406,2100004,clothing,women's clothing,98300.0
+1407,2100005,household goods,household goods,50600.0
+1408,2100005,clothing,children & junior clothing,56900.0
+1409,2100005,clothing,underwear,15300.0
+1410,2100005,cosmetics,luxury cosmetics,523600.0
+1411,2100006,clothing,men's clothing,65500.0
+1412,2100006,clothing,women's clothing,98200.0
+1413,2100006,clothing,men's clothing,62200.0
+1414,2100006,clothing,women's clothing,93500.0
+1415,2100007,clothing,children & junior clothing,57600.0
+1416,2100007,clothing,women's clothing,94700.0
+1417,2100007,household goods,paper towel,12000.0
+1418,2100007,clothing,Other Apparel,95100.0
+1419,2100007,clothing,pajamas,15600.0
+1420,2100008,clothing,men's clothing,66900.0
+1421,2100009,clothing,children & junior clothing,57900.0
+1422,2100010,clothing,children & junior clothing,56400.0
+1423,2100011,food,aquaculture products,39500.0
+1424,2100012,food,cookies,8700.0
+1425,2100012,clothing,sports wear,18000.0
+1426,2100012,clothing,children & junior clothing,56300.0
+1427,2100012,clothing,women's clothing,95900.0
+1428,2100012,clothing,men's clothing,60000.0
+1429,2100012,clothing,children & junior clothing,56400.0
+1430,2100012,clothing,women's clothing,99800.0
+1431,2100013,food,cookies,7200.0
+1432,2100013,clothing,women's clothing,101500.0
+1433,2100014,clothing,children & junior clothing,62000.0
+1434,2100015,household goods,paper towel,13700.0
+1435,2100015,clothing,sports wear,15600.0
+1436,2100016,clothing,Other Apparel,99500.0
+1437,2100016,clothing,infant clothes,32500.0
+1438,2100017,food,cookies,6700.0
+1439,2100017,clothing,Other Apparel,98900.0
+1440,2100017,clothing,road shop brand,50200.0
+1441,2100017,food,cookies,10300.0
+1442,2100017,clothing,children & junior clothing,58400.0
+1443,2100017,clothing,women's clothing,96200.0
+1444,2100018,clothing,men's clothing,64600.0
+1445,2100018,clothing,sports wear,15100.0
+1446,2100019,household goods,paper towel,17600.0
+1447,2100019,clothing,children & junior clothing,58500.0
+1448,2100020,household goods,household goods,46000.0
+1449,2100020,clothing,men's clothing,61600.0
+1450,2100020,clothing,children & junior clothing,54500.0
+1451,2100020,clothing,women's clothing,96000.0
+1452,2100021,clothing,children & junior clothing,57400.0
+1453,2100022,clothing,men's clothing,61100.0
+1454,2100022,clothing,children & junior clothing,59500.0
+1455,2100023,clothing,men's clothing,66100.0
+1456,2100023,clothing,children & junior clothing,60000.0
+1457,2100024,clothing,big size clothing,30300.0
+1458,2100024,clothing,children & junior clothing,55700.0
+1459,2100024,clothing,women's clothing,96200.0
+1460,2100025,clothing,road shop brand,42200.0
+1461,2100026,clothing,children & junior clothing,59900.0
+1462,2100027,clothing,children & junior clothing,53900.0
+1463,2100028,household goods,paper towel,11900.0
+1464,2100028,clothing,Other Apparel,99200.0
+1465,2100028,clothing,children & junior clothing,53800.0
+1466,2100028,clothing,men's clothing,63100.0
+1467,2100028,clothing,women's clothing,93700.0
+1468,2100029,food,cookies,9000.0
+1469,2100029,clothing,children & junior clothing,58300.0
+1470,2100030,clothing,men's clothing,62800.0
+1471,2100031,clothing,men's clothing,62700.0
+1472,2100031,clothing,children & junior clothing,58800.0
+1473,2100032,household goods,household goods,42600.0
+1474,2100032,clothing,children & junior clothing,60200.0
+1475,2100033,food,beverage,5200.0
+1476,2100033,clothing,men's clothing,60600.0
+1477,2100033,clothing,women's clothing,101000.0
+1478,2100033,cosmetics,body products,68100.0
+1479,2100033,clothing,Other Apparel,95900.0
+1480,2100033,clothing,women's clothing,95300.0
+1481,2100034,clothing,Other Apparel,94700.0
+1482,2100035,clothing,men's clothing,65100.0
+1483,2100035,clothing,infant clothes,27200.0
+1484,2100036,clothing,men's clothing,60600.0
+1485,2100036,clothing,women's clothing,96400.0
+1486,2100036,household goods,paper towel,15200.0
+1487,2100036,clothing,road shop brand,47700.0
+1488,2100036,clothing,women's clothing,95300.0
+1489,2100037,clothing,women's clothing,93900.0
+1490,2100037,cosmetics,luxury cosmetics,522800.0
+1491,2100038,clothing,children & junior clothing,55100.0
+1492,2100038,clothing,women's clothing,95300.0
+1493,2100039,clothing,men's clothing,63700.0
+1494,2100039,clothing,children & junior clothing,60600.0
+1495,2100040,household goods,paper towel,16800.0
+1496,2100040,clothing,men's clothing,64600.0
+1497,2100041,clothing,men's clothing,66100.0
+1498,2100041,clothing,children & junior clothing,53700.0
+1499,2100042,household goods,paper towel,9800.0
+1500,2100042,clothing,children & junior clothing,58100.0
+1501,2100043,household goods,paper towel,14900.0
+1502,2100043,food,beverage,9300.0
+1503,2100043,clothing,men's clothing,64300.0
+1504,2100044,clothing,women's clothing,98800.0
+1505,2100044,cosmetics,luxury cosmetics,526900.0
+1506,2100044,cosmetics,luxury cosmetics,531400.0
+1507,2100044,clothing,Other Apparel,97100.0
+1508,2100044,clothing,men's clothing,63700.0
+1509,2100044,clothing,children & junior clothing,53900.0
+1510,2100044,clothing,infant clothes,31300.0
+1511,2100044,electronic products,kitchen appliances,342400.0
+1512,2100044,clothing,men's clothing,61400.0
+1513,2100044,clothing,Other Apparel,94500.0
+1514,2100044,clothing,men's clothing,67200.0
+1515,2100044,clothing,women's clothing,102000.0
+1516,2100045,clothing,women's clothing,97300.0
+1517,2100046,food,snack,15100.0
+1518,2100046,food,health food,100700.0
+1519,2100046,clothing,men's clothing,63900.0
+1520,2100046,clothing,sports wear,12600.0
+1521,2100046,food,beverage,7100.0
+1522,2100046,clothing,men's clothing,61200.0
+1523,2100046,clothing,women's clothing,93100.0
+1524,2100047,food,cookies,8100.0
+1525,2100047,clothing,women's clothing,96400.0
+1526,2100047,clothing,infant clothes,33800.0
+1527,2100048,food,cookies,13700.0
+1528,2100048,clothing,children & junior clothing,56900.0
+1529,2100049,clothing,children & junior clothing,55200.0
+1530,2100050,clothing,infant clothes,32700.0
+1531,2100051,clothing,children & junior clothing,60700.0
+1532,2100052,clothing,road shop brand,43800.0
+1533,2100053,clothing,men's clothing,65600.0
+1534,2100054,clothing,road shop brand,42400.0
+1535,2100055,clothing,women's clothing,97200.0
+1536,2100055,clothing,maternity,83100.0
+1537,2100056,clothing,men's clothing,60000.0
+1538,2100056,clothing,children & junior clothing,56800.0
+1539,2100057,clothing,children & junior clothing,54300.0
+1540,2100057,clothing,infant clothes,27300.0
+1541,2100058,clothing,men's clothing,63300.0
+1542,2100058,clothing,infant clothes,32600.0
+1543,2100059,clothing,men's clothing,66100.0
+1544,2100060,clothing,children & junior clothing,54500.0
+1545,2100061,clothing,men's clothing,62800.0
+1546,2100061,clothing,road shop brand,47300.0
+1547,2100061,clothing,women's clothing,100200.0
+1548,2100061,clothing,Other Apparel,99600.0
+1549,2100062,clothing,men's clothing,59200.0
+1550,2100062,clothing,children & junior clothing,59300.0
+1551,2100062,clothing,women's clothing,97900.0
+1552,2100062,food,cookies,8500.0
+1553,2100062,clothing,women's clothing,96500.0
+1554,2100063,clothing,men's clothing,64400.0
+1555,2100063,clothing,road shop brand,50000.0
+1556,2100064,clothing,children & junior clothing,58300.0
+1557,2100065,clothing,men's clothing,60900.0
+1558,2100065,clothing,road shop brand,48400.0
+1559,2100066,clothing,men's clothing,58700.0
+1560,2100067,clothing,sports wear,14200.0
+1561,2100068,clothing,road shop brand,43500.0
+1562,2100068,clothing,children & junior clothing,53900.0
+1563,2100068,clothing,infant clothes,30700.0
+1564,2100068,clothing,maternity,86000.0
+1565,2100068,clothing,sports wear,16300.0
+1566,2100068,clothing,women's clothing,95400.0
+1567,2100069,clothing,men's clothing,67000.0
+1568,2100070,household goods,paper towel,11400.0
+1569,2100070,food,beverage,12200.0
+1570,2100070,clothing,men's clothing,63500.0
+1571,2100070,clothing,sports wear,16000.0
+1572,2100070,clothing,infant clothes,29800.0
+1573,2100071,clothing,men's clothing,63800.0
+1574,2100071,clothing,children & junior clothing,57600.0
+1575,2100072,clothing,men's clothing,66800.0
+1576,2100072,clothing,children & junior clothing,57500.0
+1577,2100073,clothing,men's clothing,62800.0
+1578,2100073,clothing,road shop brand,42600.0
+1579,2100073,clothing,big size clothing,28000.0
+1580,2100073,clothing,women's clothing,97800.0
+1581,2100074,household goods,paper towel,13500.0
+1582,2100074,clothing,children & junior clothing,57300.0
+1583,2100075,food,cookies,13700.0
+1584,2100075,food,beverage,6600.0
+1585,2100075,clothing,men's clothing,59200.0
+1586,2100075,clothing,children & junior clothing,61800.0
+1587,2100077,clothing,children & junior clothing,60100.0
+1588,2100077,clothing,infant clothes,26100.0
+1589,2100078,clothing,children & junior clothing,62500.0
+1590,2100079,clothing,men's clothing,65600.0
+1591,2100079,clothing,road shop brand,48800.0
+1592,2100080,clothing,men's clothing,61000.0
+1593,2100081,clothing,women's clothing,94900.0
+1594,2100081,clothing,infant clothes,31900.0
+1595,2100082,clothing,men's clothing,60500.0
+1596,2100083,clothing,Other Apparel,97000.0
+1597,2100083,clothing,men's clothing,59700.0
+1598,2100083,clothing,infant clothes,32800.0
+1599,2100083,clothing,women's clothing,99900.0
+1600,2100084,clothing,children & junior clothing,56800.0
+1601,2100085,clothing,infant clothes,26600.0
+1602,2100086,clothing,women's clothing,97100.0
+1603,2100087,clothing,children & junior clothing,61800.0
+1604,2100087,clothing,women's clothing,98900.0
+1605,2100088,cosmetics,hair,2700.0
+1606,2100089,clothing,children & junior clothing,58800.0
+1607,2100090,clothing,men's clothing,65000.0
+1608,2100091,clothing,men's clothing,64600.0
+1609,2100092,clothing,road shop brand,45100.0
+1610,2100093,clothing,road shop brand,45500.0
+1611,2100094,clothing,women's clothing,95900.0
+1612,2100095,clothing,men's clothing,60600.0
+1613,2100096,clothing,children & junior clothing,57500.0
+1614,2100096,cosmetics,hair,9300.0
+1615,2100097,clothing,road shop brand,46000.0
+1616,2100098,clothing,men's clothing,59800.0
+1617,2100099,clothing,women's clothing,97300.0
+1618,2100100,electronic products,kitchen appliances,351100.0
+1619,2100100,household goods,paper towel,15900.0
+1620,2100100,clothing,women's clothing,93200.0
+1621,2100101,clothing,children & junior clothing,53500.0
+1622,2100102,cosmetics,luxury cosmetics,523700.0
+1623,2100103,food,beverage,5700.0
+1624,2100104,clothing,men's clothing,59300.0
+1625,2100105,food,beverage,11400.0
+1626,2100105,clothing,men's clothing,61800.0
+1627,2100106,clothing,children & junior clothing,62200.0
+1628,2100107,clothing,women's clothing,100400.0
+1629,2100108,clothing,children & junior clothing,57200.0
+1630,2100109,clothing,men's clothing,66500.0
+1631,2100109,clothing,children & junior clothing,59100.0
+1632,2100110,food,cookies,13700.0
+1633,2100110,clothing,children & junior clothing,59900.0
+1634,2100111,food,cookies,10000.0
+1635,2100111,clothing,children & junior clothing,55900.0
+1636,2100112,food,cookies,8900.0
+1637,2100112,clothing,children & junior clothing,59400.0
+1638,2100113,food,health food,94200.0
+1639,2100113,cosmetics,luxury cosmetics,522700.0
+1640,2100113,clothing,Other Apparel,100500.0
+1641,2100113,clothing,women's clothing,101600.0
+1642,2100113,clothing,pajamas,13200.0
+1643,2100113,clothing,children & junior clothing,53800.0
+1644,2100113,clothing,women's clothing,98600.0
+1645,2100113,clothing,men's clothing,63400.0
+1646,2100113,clothing,road shop brand,48200.0
+1647,2100113,clothing,big size clothing,27000.0
+1648,2100113,clothing,children & junior clothing,59900.0
+1649,2100113,clothing,women's clothing,101300.0
+1650,2100113,clothing,women's clothing,100500.0
+1651,2100113,household goods,paper towel,14900.0
+1652,2100113,clothing,Other Apparel,95400.0
+1653,2100113,clothing,women's clothing,95200.0
+1654,2100113,clothing,women's clothing,94000.0
+1655,2100113,clothing,Other Apparel,95100.0
+1656,2100113,clothing,men's clothing,66100.0
+1657,2100113,clothing,children & junior clothing,60000.0
+1658,2100113,clothing,women's clothing,102100.0
+1659,2100113,clothing,children & junior clothing,60400.0
+1660,2100113,clothing,women's clothing,94900.0
+1661,2100113,food,cookies,13800.0
+1662,2100113,clothing,women's clothing,94800.0
+1663,2100113,clothing,infant clothes,34500.0
+1664,2100115,clothing,children & junior clothing,54900.0
+1665,2100117,clothing,road shop brand,49100.0
+1666,2100118,household goods,paper towel,15500.0
+1667,2100118,clothing,children & junior clothing,58200.0
+1668,2100119,clothing,men's clothing,65000.0
+1669,2100119,clothing,children & junior clothing,56800.0
+1670,2100119,clothing,women's clothing,96000.0
+1671,2100119,household goods,paper towel,15800.0
+1672,2100119,clothing,women's clothing,94100.0
+1673,2100120,household goods,household goods,43400.0
+1674,2100121,clothing,children & junior clothing,53900.0
+1675,2100122,food,snack,14900.0
+1676,2100122,clothing,road shop brand,46400.0
+1677,2100122,clothing,children & junior clothing,59000.0
+1678,2100123,clothing,infant clothes,34700.0
+1679,2100124,clothing,maternity,85100.0
+1680,2100125,clothing,children & junior clothing,61400.0
+1681,2100126,clothing,women's clothing,97700.0
+1682,2100127,clothing,men's clothing,66300.0
+1683,2100129,clothing,children & junior clothing,57000.0
+1684,2100130,food,cookies,9500.0
+1685,2100132,food,agricultural products,13600.0
+1686,2100132,food,aquaculture products,35100.0
+1687,2100133,clothing,men's clothing,58600.0
+1688,2100134,clothing,children & junior clothing,57400.0
+1689,2100135,clothing,children & junior clothing,62300.0
+1690,2100136,clothing,children & junior clothing,59900.0
+1691,2100136,clothing,women's clothing,94700.0
+1692,2100136,food,health food,100300.0
+1693,2100136,food,cookies,9000.0
+1694,2100136,food,beverage,13700.0
+1695,2100136,clothing,women's clothing,99000.0
+1696,2100136,cosmetics,suncare,45800.0
+1697,2100137,food,cookies,14100.0
+1698,2100138,clothing,men's clothing,59100.0
+1699,2100139,household goods,household goods,50800.0
+1700,2100140,food,cookies,12700.0
+1701,2100141,clothing,children & junior clothing,56100.0
+1702,2100142,clothing,infant clothes,33700.0
+1703,2100143,household goods,household goods,48500.0
+1704,2100143,household goods,paper towel,11400.0
+1705,2100143,clothing,Other Apparel,100000.0
+1706,2100143,clothing,underwear,13100.0
+1707,2100143,clothing,women's clothing,98000.0
+1708,2100144,household goods,household goods,44100.0
+1709,2100144,household goods,paper towel,17100.0
+1710,2100144,clothing,Other Apparel,97100.0
+1711,2100144,clothing,underwear,9300.0
+1712,2100144,clothing,women's clothing,96300.0
+1713,2100144,food,agricultural products,14800.0
+1714,2100144,clothing,women's clothing,94300.0
+1715,2100146,clothing,children & junior clothing,61400.0
+1716,2100147,household goods,household goods,42800.0
+1717,2100147,household goods,paper towel,18300.0
+1718,2100147,clothing,children & junior clothing,60700.0
+1719,2100147,clothing,women's clothing,100000.0
+1720,2100147,clothing,women's clothing,101200.0
+1721,2100148,clothing,infant clothes,26900.0
+1722,2100149,household goods,household goods,44800.0
+1723,2100149,household goods,paper towel,12200.0
+1724,2100149,clothing,Other Apparel,100200.0
+1725,2100149,clothing,men's clothing,65600.0
+1726,2100149,clothing,underwear,10400.0
+1727,2100149,clothing,women's clothing,101900.0
+1728,2100150,food,cookies,10800.0
+1729,2100151,clothing,children & junior clothing,61300.0
+1730,2100152,electronic products,kitchen appliances,343200.0
+1731,2100152,clothing,women's clothing,96600.0
+1732,2100153,food,cookies,8000.0
+1733,2100153,clothing,road shop brand,46600.0
+1734,2100153,clothing,women's clothing,101400.0
+1735,2100154,clothing,children & junior clothing,56000.0
+1736,2100155,clothing,Other Apparel,101300.0
+1737,2100156,clothing,children & junior clothing,57300.0
+1738,2100157,clothing,children & junior clothing,55500.0
+1739,2100159,clothing,children & junior clothing,56000.0
+1740,2100160,clothing,children & junior clothing,59300.0
+1741,2100161,clothing,children & junior clothing,60100.0
+1742,2100162,clothing,children & junior clothing,60300.0
+1743,2100163,clothing,road shop brand,44100.0
+1744,2100164,clothing,women's clothing,97500.0
+1745,2100165,clothing,children & junior clothing,60400.0
+1746,2100167,clothing,Other Apparel,97300.0
+1747,2100168,clothing,men's clothing,61600.0
+1748,2100169,clothing,children & junior clothing,62500.0
+1749,2100170,clothing,Other Apparel,96700.0
+1750,2100170,clothing,women's clothing,99900.0
+1751,2100170,clothing,Other Apparel,97800.0
+1752,2100170,clothing,women's clothing,100400.0
+1753,2100171,clothing,children & junior clothing,56500.0
+1754,2100172,clothing,infant clothes,27100.0
+1755,2100173,household goods,kitchen utensils,7300.0
+1756,2100174,clothing,men's clothing,61400.0
+1757,2100174,clothing,sports wear,14700.0
+1758,2100175,clothing,men's clothing,59800.0
+1759,2100176,household goods,paper towel,16200.0
+1760,2100176,clothing,women's clothing,97000.0
+1761,2100177,clothing,children & junior clothing,60100.0
+1762,2100178,clothing,children & junior clothing,56100.0
+1763,2100179,food,cookies,12900.0
+1764,2100180,clothing,men's clothing,61800.0
+1765,2100180,clothing,women's clothing,94800.0
+1766,2100181,clothing,children & junior clothing,55500.0
+1767,2100181,clothing,women's clothing,93300.0
+1768,2100181,clothing,men's clothing,65700.0
+1769,2100181,clothing,children & junior clothing,55800.0
+1770,2100181,clothing,women's clothing,93500.0
+1771,2100183,clothing,children & junior clothing,61900.0
+1772,2100184,food,processed food,14400.0
+1773,2100184,clothing,Other Apparel,95500.0
+1774,2100184,clothing,men's clothing,62500.0
+1775,2100184,clothing,road shop brand,44600.0
+1776,2100184,clothing,children & junior clothing,56000.0
+1777,2100184,clothing,underwear,12500.0
+1778,2100184,clothing,women's clothing,100800.0
+1779,2100185,clothing,children & junior clothing,55000.0
+1780,2100187,clothing,men's clothing,59900.0
+1781,2100188,clothing,men's clothing,62500.0
+1782,2100189,clothing,men's clothing,65400.0
+1783,2100189,clothing,road shop brand,45000.0
+1784,2100189,clothing,infant clothes,26700.0
+1785,2100191,clothing,men's clothing,63000.0
+1786,2100193,household goods,household goods,50100.0
+1787,2100194,clothing,men's clothing,58800.0
+1788,2100196,food,beverage,13600.0
+1789,2100197,household goods,paper towel,12300.0
+1790,2100197,clothing,pajamas,14000.0
+1791,2100198,clothing,women's clothing,101700.0
+1792,2100199,clothing,women's clothing,98800.0
+1793,2100202,clothing,children & junior clothing,60200.0
+1794,2100203,clothing,children & junior clothing,57000.0
+1795,2100204,clothing,children & junior clothing,61600.0
+1796,2100205,electronic products,cellphone,812500.0
+1797,2100205,electronic products,cellphone,817800.0
+1798,2100205,clothing,children & junior clothing,57900.0
+1799,2100205,electronic products,video sound,674700.0
+1800,2100205,food,cookies,5800.0
+1801,2100205,clothing,men's clothing,62300.0
+1802,2100205,clothing,children & junior clothing,54600.0
+1803,2100205,clothing,maternity,89000.0
+1804,2100206,clothing,men's clothing,60800.0
+1805,2100207,food,agricultural products,15300.0
+1806,2100208,food,processed food,18000.0
+1807,2100208,food,aquaculture products,33400.0
+1808,2100209,clothing,children & junior clothing,61300.0
+1809,2100209,clothing,infant clothes,30800.0
+1810,2100210,cosmetics,luxury cosmetics,523200.0
+1811,2100211,clothing,women's clothing,99500.0
+1812,2100213,food,snack,13300.0
+1813,2100214,clothing,men's clothing,61100.0
+1814,2100214,clothing,sports wear,16500.0
+1815,2100214,clothing,children & junior clothing,60300.0
+1816,2100214,clothing,women's clothing,100300.0
+1817,2100214,food,cookies,6300.0
+1818,2100214,clothing,men's clothing,64600.0
+1819,2100214,clothing,women's clothing,98600.0
+1820,2100215,clothing,men's clothing,60600.0
+1821,2100216,food,beverage,5300.0
+1822,2100217,clothing,children & junior clothing,61800.0
+1823,2100218,clothing,children & junior clothing,59500.0
+1824,2100219,clothing,children & junior clothing,61600.0
+1825,2100221,food,agricultural products,18000.0
+1826,2100222,clothing,children & junior clothing,57700.0
+1827,2100223,clothing,infant clothes,27500.0
+1828,2100225,clothing,infant clothes,32300.0
+1829,2100226,clothing,road shop brand,45600.0
+1830,2100227,household goods,paper towel,15100.0
+1831,2100227,food,cookies,7600.0
+1832,2100227,clothing,Other Apparel,98500.0
+1833,2100228,clothing,children & junior clothing,56300.0
+1834,2100229,food,health food,93000.0
+1835,2100230,clothing,children & junior clothing,57900.0
+1836,2100231,clothing,men's clothing,63800.0
+1837,2100232,cosmetics,luxury cosmetics,524900.0
+1838,2100234,clothing,men's clothing,67600.0
+1839,2100235,clothing,children & junior clothing,58000.0
+1840,2100236,clothing,women's clothing,98900.0
+1841,2100237,food,processed food,15500.0
+1842,2100237,clothing,men's clothing,65900.0
+1843,2100238,clothing,maternity,85600.0
+1844,2100239,clothing,children & junior clothing,56100.0
+1845,2100241,household goods,paper towel,10000.0
+1846,2100241,clothing,women's clothing,97200.0
+1847,2100243,food,cookies,11200.0
+1848,2100244,clothing,children & junior clothing,59600.0
+1849,2100245,clothing,infant clothes,26800.0
+1850,2100246,clothing,Other Apparel,95400.0
+1851,2100248,clothing,infant clothes,30700.0
+1852,2100249,clothing,children & junior clothing,53500.0
+1853,2100250,clothing,women's clothing,99700.0
+1854,2100253,clothing,children & junior clothing,58100.0
+1855,2100255,clothing,road shop brand,49000.0
+1856,2100257,clothing,women's clothing,97500.0
+1857,2100258,household goods,paper towel,16900.0
+1858,2100258,food,cookies,14000.0
+1859,2100258,clothing,women's clothing,95400.0
+1860,2100259,clothing,children & junior clothing,56300.0
+1861,2100260,food,beverage,11800.0
+1862,2100261,food,cookies,14100.0
+1863,2100262,clothing,men's clothing,66500.0
+1864,2100264,clothing,women's clothing,93300.0
+1865,2100265,clothing,sports wear,18700.0
+1866,2100266,clothing,men's clothing,60600.0
+1867,2100267,clothing,men's clothing,61500.0
+1868,2100268,food,beverage,4900.0
+1869,2100269,clothing,infant clothes,34700.0
+1870,2100271,clothing,children & junior clothing,61600.0
+1871,2100272,clothing,men's clothing,59600.0
+1872,2100272,clothing,women's clothing,100300.0
+1873,2100272,household goods,paper towel,12800.0
+1874,2100272,clothing,children & junior clothing,53400.0
+1875,2100272,clothing,women's clothing,95100.0
+1876,2100273,clothing,sports wear,20200.0
+1877,2100274,clothing,infant clothes,33400.0
+1878,2100276,clothing,men's clothing,67300.0
+1879,2100277,clothing,men's clothing,65000.0
+1880,2100279,clothing,men's clothing,64900.0
+1881,2100280,food,processed food,10200.0
+1882,2100280,food,agricultural products,16900.0
+1883,2100280,clothing,Other Apparel,98400.0
+1884,2100281,household goods,paper towel,12400.0
+1885,2100281,clothing,children & junior clothing,61700.0
+1886,2100282,food,health food,100300.0
+1887,2100283,clothing,children & junior clothing,58100.0
+1888,2100284,clothing,children & junior clothing,59800.0
+1889,2100285,food,cookies,12500.0
+1890,2100285,clothing,men's clothing,59700.0
+1891,2100285,cosmetics,luxury cosmetics,529200.0
+1892,2100285,clothing,Other Apparel,99000.0
+1893,2100285,clothing,women's clothing,101600.0
+1894,2100287,clothing,children & junior clothing,59200.0
+1895,2100288,cosmetics,skin care,27900.0
+1896,2100289,clothing,infant clothes,34000.0
+1897,2100290,household goods,paper towel,14200.0
+1898,2100290,clothing,men's clothing,63800.0
+1899,2100291,clothing,children & junior clothing,56100.0
+1900,2100292,clothing,sports wear,16100.0
+1901,2100293,clothing,women's clothing,99000.0
+1902,2100294,household goods,paper towel,12700.0
+1903,2100294,food,cookies,7800.0
+1904,2100294,clothing,men's clothing,64000.0
+1905,2100294,clothing,women's clothing,98200.0
+1906,2100295,clothing,men's clothing,66600.0
+1907,2100296,cosmetics,body products,71200.0
+1908,2100297,food,aquaculture products,34700.0
+1909,2100297,clothing,men's clothing,60600.0
+1910,2100297,clothing,children & junior clothing,53500.0
+1911,2100298,clothing,women's clothing,94900.0
+1912,2100299,electronic products,video sound,672900.0
+1913,2100299,food,cookies,13200.0
+1914,2100300,food,cookies,13400.0
+1915,2100300,clothing,children & junior clothing,56400.0
+1916,2100301,clothing,infant clothes,33000.0
+1917,2100303,clothing,men's clothing,65100.0
+1918,2100303,clothing,women's clothing,94300.0
+1919,2100304,clothing,men's clothing,63800.0
+1920,2100304,clothing,women's clothing,98100.0
+1921,2100305,clothing,men's clothing,66500.0
+1922,2100305,clothing,women's clothing,102000.0
+1923,2100305,food,cookies,11600.0
+1924,2100305,clothing,road shop brand,44900.0
+1925,2100305,clothing,sports wear,19800.0
+1926,2100305,clothing,women's clothing,100800.0
+1927,2110001,food,cookies,9500.0
+1928,2110001,clothing,men's clothing,67000.0
+1929,2110002,clothing,women's clothing,99700.0
+1930,2110002,clothing,infant clothes,30100.0
+1931,2110003,household goods,household goods,46200.0
+1932,2110003,clothing,men's clothing,65400.0
+1933,2110003,cosmetics,hair,7900.0
+1934,2110004,clothing,children & junior clothing,60300.0
+1935,2110005,clothing,children & junior clothing,55900.0
+1936,2110005,cosmetics,luxury cosmetics,527200.0
+1937,2110006,clothing,children & junior clothing,53900.0
+1938,2110007,household goods,household goods,50100.0
+1939,2110009,clothing,men's clothing,62000.0
+1940,2110009,clothing,infant clothes,32100.0
+1941,2110010,clothing,children & junior clothing,55900.0
+1942,2110010,cosmetics,suncare,44400.0
+1943,2110011,clothing,men's clothing,67200.0
+1944,2110012,clothing,men's clothing,65800.0
+1945,2110012,clothing,children & junior clothing,60500.0
+1946,2110013,food,cookies,13800.0
+1947,2110013,cosmetics,luxury cosmetics,528100.0
+1948,2110013,food,cookies,11500.0
+1949,2110013,clothing,men's clothing,59300.0
+1950,2110013,clothing,children & junior clothing,57100.0
+1951,2110013,clothing,women's clothing,98500.0
+1952,2110014,clothing,children & junior clothing,61900.0
+1953,2110015,clothing,children & junior clothing,61200.0
+1954,2110015,clothing,women's clothing,95400.0
+1955,2110015,clothing,women's clothing,99300.0
+1956,2110016,household goods,kitchen utensils,11200.0
+1957,2110016,clothing,women's clothing,97800.0
+1958,2110017,food,cookies,6500.0
+1959,2110017,clothing,children & junior clothing,58800.0
+1960,2110018,clothing,men's clothing,60500.0
+1961,2110019,clothing,men's clothing,65300.0
+1962,2110020,food,health food,97100.0
+1963,2110020,food,beverage,11500.0
+1964,2110020,clothing,women's clothing,96400.0
+1965,2110021,food,processed food,18000.0
+1966,2110021,food,agricultural products,13800.0
+1967,2110021,clothing,children & junior clothing,56800.0
+1968,2110022,food,processed food,11000.0
+1969,2110022,food,agricultural products,20800.0
+1970,2110022,clothing,men's clothing,64500.0
+1971,2110022,clothing,children & junior clothing,57300.0
+1972,2110022,food,processed food,10600.0
+1973,2110022,food,agricultural products,18700.0
+1974,2110022,food,aquaculture products,39800.0
+1975,2110022,clothing,road shop brand,45300.0
+1976,2110022,clothing,maternity,85800.0
+1977,2110023,food,processed food,13700.0
+1978,2110023,food,agricultural products,13700.0
+1979,2110023,clothing,children & junior clothing,56100.0
+1980,2110023,clothing,infant clothes,31200.0
+1981,2110024,household goods,paper towel,11300.0
+1982,2110024,clothing,men's clothing,66500.0
+1983,2110024,clothing,women's clothing,100400.0
+1984,2110024,clothing,Other Apparel,98500.0
+1985,2110024,clothing,men's clothing,59500.0
+1986,2110025,household goods,paper towel,12100.0
+1987,2110025,clothing,children & junior clothing,58100.0
+1988,2110026,household goods,household goods,42400.0
+1989,2110026,clothing,road shop brand,50200.0
+1990,2110026,clothing,children & junior clothing,56900.0
+1991,2110026,clothing,underwear,9900.0
+1992,2110026,clothing,women's clothing,96600.0
+1993,2110026,clothing,women's clothing,98000.0
+1994,2110027,clothing,men's clothing,60400.0
+1995,2110027,clothing,infant clothes,33000.0
+1996,2110028,household goods,paper towel,17100.0
+1997,2110028,food,agricultural products,13700.0
+1998,2110029,clothing,children & junior clothing,59900.0
+1999,2110029,clothing,infant clothes,31300.0
+2000,2110030,clothing,children & junior clothing,56600.0
+2001,2110030,clothing,women's clothing,97200.0
+2002,2110030,clothing,women's clothing,101500.0
+2003,2110031,household goods,paper towel,10800.0
+2004,2110031,food,cookies,6000.0
+2005,2110031,clothing,men's clothing,64100.0
+2006,2110031,clothing,children & junior clothing,60200.0
+2007,2110031,clothing,infant clothes,31900.0
+2008,2110032,clothing,big size clothing,30800.0
+2009,2110032,clothing,children & junior clothing,54200.0
+2010,2110033,clothing,children & junior clothing,59800.0
+2011,2110034,clothing,men's clothing,67500.0
+2012,2110034,clothing,children & junior clothing,55000.0
+2013,2110035,household goods,paper towel,13400.0
+2014,2110035,clothing,big size clothing,27300.0
+2015,2110035,clothing,children & junior clothing,61600.0
+2016,2110036,clothing,children & junior clothing,54900.0
+2017,2110038,clothing,children & junior clothing,57000.0
+2018,2110038,clothing,women's clothing,99400.0
+2019,2110038,clothing,Other Apparel,101400.0
+2020,2110038,clothing,children & junior clothing,62100.0
+2021,2110039,clothing,men's clothing,59200.0
+2022,2110040,clothing,men's clothing,60500.0
+2023,2110041,electronic products,video sound,678000.0
+2024,2110041,food,snack,15700.0
+2025,2110041,clothing,infant clothes,34000.0
+2026,2110042,household goods,paper towel,10700.0
+2027,2110042,clothing,sports wear,20300.0
+2028,2110043,clothing,children & junior clothing,58600.0
+2029,2110044,clothing,women's clothing,100200.0
+2030,2110044,clothing,infant clothes,34300.0
+2031,2110045,clothing,men's clothing,62500.0
+2032,2110045,clothing,children & junior clothing,57400.0
+2033,2110045,clothing,women's clothing,97500.0
+2034,2110045,household goods,paper towel,9400.0
+2035,2110045,clothing,children & junior clothing,57400.0
+2036,2110045,clothing,women's clothing,93800.0
+2037,2110045,clothing,infant clothes,33300.0
+2038,2110046,clothing,children & junior clothing,58800.0
+2039,2110047,household goods,paper towel,13700.0
+2040,2110047,clothing,children & junior clothing,55700.0
+2041,2110047,clothing,women's clothing,95500.0
+2042,2110047,clothing,women's clothing,100600.0
+2043,2110048,food,cookies,13600.0
+2044,2110048,clothing,infant clothes,26000.0
+2045,2110049,clothing,women's clothing,96600.0
+2046,2110049,clothing,infant clothes,30200.0
+2047,2110050,food,beverage,5800.0
+2048,2110050,clothing,infant clothes,28700.0
+2049,2110051,clothing,children & junior clothing,53700.0
+2050,2110052,food,beverage,13900.0
+2051,2110052,clothing,men's clothing,58700.0
+2052,2110053,food,agricultural products,21200.0
+2053,2110053,clothing,men's clothing,64900.0
+2054,2110053,clothing,children & junior clothing,59600.0
+2055,2110054,clothing,men's clothing,66200.0
+2056,2110054,clothing,women's clothing,99700.0
+2057,2110054,clothing,Other Apparel,95700.0
+2058,2110055,household goods,paper towel,15600.0
+2059,2110055,clothing,men's clothing,63800.0
+2060,2110056,household goods,paper towel,9700.0
+2061,2110056,food,cookies,11700.0
+2062,2110056,clothing,children & junior clothing,58400.0
+2063,2110057,clothing,men's clothing,67500.0
+2064,2110059,clothing,infant clothes,27500.0
+2065,2110060,household goods,kitchen utensils,11800.0
+2066,2110060,clothing,men's clothing,63600.0
+2067,2110061,clothing,men's clothing,63500.0
+2068,2110061,clothing,road shop brand,49000.0
+2069,2110061,clothing,big size clothing,26500.0
+2070,2110061,clothing,infant clothes,34000.0
+2071,2110061,clothing,Other Apparel,99300.0
+2072,2110062,clothing,men's clothing,64000.0
+2073,2110062,clothing,women's clothing,99800.0
+2074,2110062,food,cookies,5900.0
+2075,2110062,clothing,women's clothing,95600.0
+2076,2110063,clothing,women's clothing,97600.0
+2077,2110064,clothing,children & junior clothing,61700.0
+2078,2110065,household goods,household goods,44700.0
+2079,2110065,food,cookies,9500.0
+2080,2110065,clothing,road shop brand,49500.0
+2081,2110065,clothing,children & junior clothing,57800.0
+2082,2110065,clothing,infant clothes,31300.0
+2083,2110066,clothing,women's clothing,97400.0
+2084,2110066,clothing,infant clothes,26100.0
+2085,2110067,clothing,men's clothing,63600.0
+2086,2110067,clothing,children & junior clothing,55000.0
+2087,2110068,household goods,paper towel,12900.0
+2088,2110068,clothing,children & junior clothing,58000.0
+2089,2110068,cosmetics,luxury cosmetics,529200.0
+2090,2110068,household goods,paper towel,10500.0
+2091,2110068,clothing,road shop brand,50000.0
+2092,2110068,clothing,children & junior clothing,61600.0
+2093,2110068,clothing,women's clothing,99400.0
+2094,2110069,food,health food,101000.0
+2095,2110069,clothing,men's clothing,61900.0
+2096,2110069,clothing,Other Apparel,98300.0
+2097,2110069,clothing,infant clothes,30800.0
+2098,2110070,clothing,men's clothing,58600.0
+2099,2110070,clothing,children & junior clothing,61400.0
+2100,2110070,clothing,pajamas,19700.0
+2101,2110070,clothing,maternity,82800.0
+2102,2110071,clothing,children & junior clothing,61000.0
+2103,2110072,clothing,children & junior clothing,53400.0
+2104,2110073,household goods,paper towel,16400.0
+2105,2110073,clothing,men's clothing,65400.0
+2106,2110073,clothing,children & junior clothing,60600.0
+2107,2110073,clothing,women's clothing,95500.0
+2108,2110073,clothing,infant clothes,34700.0
+2109,2110073,household goods,paper towel,11500.0
+2110,2110073,clothing,Other Apparel,94300.0
+2111,2110073,clothing,children & junior clothing,61800.0
+2112,2110073,clothing,women's clothing,96400.0
+2113,2110074,clothing,children & junior clothing,60600.0
+2114,2110074,clothing,women's clothing,94100.0
+2115,2110075,clothing,men's clothing,61400.0
+2116,2110075,clothing,children & junior clothing,54500.0
+2117,2110076,clothing,men's clothing,60700.0
+2118,2110076,clothing,children & junior clothing,53500.0
+2119,2110077,electronic products,video sound,672900.0
+2120,2110077,clothing,women's clothing,98600.0
+2121,2110078,clothing,children & junior clothing,60700.0
+2122,2110078,cosmetics,suncare,45100.0
+2123,2110079,clothing,women's clothing,96200.0
+2124,2110080,food,processed food,14300.0
+2125,2110080,food,agricultural products,21600.0
+2126,2110080,clothing,women's clothing,92900.0
+2127,2110081,clothing,women's clothing,98000.0
+2128,2110085,clothing,road shop brand,43400.0
+2129,2110086,clothing,children & junior clothing,62000.0
+2130,2110087,clothing,road shop brand,49800.0
+2131,2110087,clothing,children & junior clothing,54800.0
+2132,2110087,clothing,women's clothing,94000.0
+2133,2110088,clothing,men's clothing,60200.0
+2134,2110090,clothing,children & junior clothing,58800.0
+2135,2110091,food,aquaculture products,39000.0
+2136,2110091,food,beverage,8000.0
+2137,2110091,clothing,sports wear,14200.0
+2138,2110092,clothing,men's clothing,63800.0
+2139,2110092,clothing,women's clothing,102000.0
+2140,2110092,clothing,men's clothing,60000.0
+2141,2110092,clothing,children & junior clothing,56000.0
+2142,2110092,clothing,women's clothing,97000.0
+2143,2110093,food,cookies,10000.0
+2144,2110096,electronic products,cellphone,820300.0
+2145,2110096,clothing,infant clothes,32400.0
+2146,2110096,electronic products,video sound,679800.0
+2147,2110096,clothing,sports wear,18900.0
+2148,2110096,clothing,children & junior clothing,57900.0
+2149,2110098,clothing,children & junior clothing,61000.0
+2150,2110101,clothing,road shop brand,44300.0
+2151,2110102,clothing,men's clothing,64200.0
+2152,2110102,clothing,women's clothing,93400.0
+2153,2110102,clothing,women's clothing,97400.0
+2154,2110103,clothing,women's clothing,99500.0
+2155,2110104,clothing,men's clothing,59000.0
+2156,2110104,clothing,women's clothing,96000.0
+2157,2110104,clothing,women's clothing,96900.0
+2158,2110106,clothing,children & junior clothing,57300.0
+2159,2110108,clothing,men's clothing,63500.0
+2160,2110109,clothing,infant clothes,27300.0
+2161,2110110,clothing,Other Apparel,100200.0
+2162,2110111,household goods,paper towel,14700.0
+2163,2110111,clothing,infant clothes,32800.0
+2164,2110112,clothing,men's clothing,61400.0
+2165,2110113,clothing,children & junior clothing,56600.0
+2166,2110114,clothing,children & junior clothing,59000.0
+2167,2110115,clothing,men's clothing,59100.0
+2168,2110115,clothing,underwear,17900.0
+2169,2110116,clothing,men's clothing,62400.0
+2170,2110117,food,beverage,8700.0
+2171,2110118,clothing,infant clothes,32300.0
+2172,2110119,food,beverage,10600.0
+2173,2110121,clothing,men's clothing,63200.0
+2174,2110123,clothing,men's clothing,64000.0
+2175,2110124,clothing,men's clothing,65100.0
+2176,2110125,clothing,infant clothes,26600.0
+2177,2110126,clothing,men's clothing,66000.0
+2178,2110127,clothing,women's clothing,95400.0
+2179,2110128,clothing,children & junior clothing,62500.0
+2180,2110129,clothing,infant clothes,28700.0
+2181,2110130,clothing,men's clothing,65100.0
+2182,2110134,clothing,men's clothing,60100.0
+2183,2110135,clothing,children & junior clothing,58700.0
+2184,2110137,clothing,men's clothing,61900.0
+2185,2110138,clothing,children & junior clothing,58200.0
+2186,2110140,clothing,children & junior clothing,55800.0
+2187,2110142,clothing,men's clothing,66700.0
+2188,2110144,clothing,men's clothing,66200.0
+2189,2110145,household goods,paper towel,18000.0
+2190,2110147,household goods,paper towel,17400.0
+2191,2110148,clothing,men's clothing,59800.0
+2192,2110151,clothing,men's clothing,61600.0
+2193,2110152,clothing,men's clothing,64800.0
+2194,2110154,food,cookies,13200.0
+2195,2110155,clothing,men's clothing,62300.0
+2196,2110156,clothing,children & junior clothing,53900.0
+2197,2110157,clothing,men's clothing,63500.0
+2198,2110158,clothing,men's clothing,61400.0
+2199,2110158,clothing,children & junior clothing,61900.0
+2200,2110161,clothing,infant clothes,33000.0
+2201,2110164,clothing,pajamas,16100.0
+2202,2110167,clothing,infant clothes,31700.0
+2203,2110168,food,cookies,8900.0
+2204,2110168,clothing,children & junior clothing,56600.0
+2205,2110169,household goods,paper towel,16300.0
+2206,2110170,clothing,sports wear,17700.0
+2207,2110172,clothing,men's clothing,65700.0
+2208,2110174,clothing,children & junior clothing,53800.0
+2209,2110178,clothing,children & junior clothing,53700.0
+2210,2110179,clothing,men's clothing,61800.0
+2211,2110180,clothing,infant clothes,32700.0
+2212,2110181,clothing,women's clothing,101000.0
+2213,2110182,household goods,paper towel,17100.0
+2214,2110183,clothing,men's clothing,60300.0
+2215,2110187,clothing,children & junior clothing,58900.0
+2216,2110188,clothing,men's clothing,65100.0
+2217,2110188,clothing,women's clothing,94200.0
+2218,2110193,clothing,infant clothes,26200.0
+2219,2110194,clothing,children & junior clothing,56200.0
+2220,2110195,clothing,road shop brand,48800.0
+2221,2110196,clothing,men's clothing,66600.0
+2222,2110198,clothing,men's clothing,67400.0
+2223,2110200,clothing,men's clothing,63100.0
+2224,2110200,clothing,sports wear,15400.0
+2225,2110201,clothing,sports wear,15800.0
+2226,2110202,clothing,men's clothing,60400.0
+2227,2110204,clothing,children & junior clothing,57600.0
+2228,2110210,clothing,road shop brand,50900.0
+2229,2110211,clothing,men's clothing,59500.0
+2230,2110212,clothing,children & junior clothing,60200.0
+2231,2110213,food,beverage,11600.0
+2232,2110214,food,beverage,12200.0
+2233,2110214,clothing,sports wear,17800.0
+2234,2110215,clothing,children & junior clothing,60900.0
+2235,2110216,clothing,Other Apparel,100400.0
+2236,2110217,clothing,men's clothing,60000.0
+2237,2110218,food,agricultural products,20500.0
+2238,2110219,clothing,men's clothing,59800.0
+2239,2110220,clothing,men's clothing,60100.0
+2240,2110220,clothing,sports wear,13200.0
+2241,2110221,clothing,children & junior clothing,59800.0
+2242,2110222,clothing,children & junior clothing,53600.0
+2243,2110223,clothing,Other Apparel,96700.0
+2244,2110224,clothing,men's clothing,58500.0
+2245,2110225,clothing,children & junior clothing,60900.0
+2246,2110226,food,cookies,12400.0
+2247,3100001,clothing,men's clothing,62100.0
+2248,3100001,clothing,sports wear,14300.0
+2249,3100002,household goods,household goods,42700.0
+2250,3100002,food,health food,98500.0
+2251,3100002,food,beverage,10600.0
+2252,3100002,clothing,sports wear,17400.0
+2253,3100003,food,beverage,13000.0
+2254,3100003,clothing,men's clothing,61600.0
+2255,3100003,clothing,children & junior clothing,55400.0
+2256,3100005,clothing,women's clothing,98500.0
+2257,3100007,food,beverage,11200.0
+2258,3100007,clothing,men's clothing,63200.0
+2259,3100008,clothing,men's clothing,63100.0
+2260,3100008,clothing,children & junior clothing,59000.0
+2261,3100009,clothing,children & junior clothing,54700.0
+2262,3100010,clothing,women's clothing,92900.0
+2263,3100011,household goods,paper towel,13800.0
+2264,3100011,clothing,children & junior clothing,59600.0
+2265,3100012,household goods,paper towel,13900.0
+2266,3100012,clothing,men's clothing,62700.0
+2267,3100012,clothing,sports wear,15600.0
+2268,3100012,cosmetics,body products,65800.0
+2269,3100013,clothing,men's clothing,63000.0
+2270,3100013,clothing,big size clothing,23900.0
+2271,3100013,clothing,children & junior clothing,54900.0
+2272,3100013,clothing,pajamas,13000.0
+2273,3100014,household goods,paper towel,18300.0
+2274,3100014,clothing,sports wear,19300.0
+2275,3100016,clothing,men's clothing,60100.0
+2276,3100018,food,beverage,6800.0
+2277,3100018,clothing,men's clothing,66700.0
+2278,3100018,clothing,infant clothes,32300.0
+2279,3100020,clothing,children & junior clothing,58300.0
+2280,3100021,food,cookies,9300.0
+2281,3100021,clothing,children & junior clothing,55500.0
+2282,3100022,clothing,men's clothing,61500.0
+2283,3100023,clothing,children & junior clothing,59400.0
+2284,3100024,clothing,men's clothing,63700.0
+2285,3100024,clothing,children & junior clothing,53700.0
+2286,3100026,food,cookies,7000.0
+2287,3100027,clothing,men's clothing,67000.0
+2288,3100028,clothing,children & junior clothing,59000.0
+2289,3100031,clothing,children & junior clothing,58700.0
+2290,3100032,clothing,road shop brand,49300.0
+2291,3100032,clothing,sports wear,14500.0
+2292,3100032,clothing,children & junior clothing,62000.0
+2293,3100032,clothing,infant clothes,26600.0
+2294,3100037,food,processed food,17100.0
+2295,3100037,clothing,men's clothing,64300.0
+2296,3100039,clothing,children & junior clothing,57700.0
+2297,3100040,clothing,children & junior clothing,62000.0
+2298,3100041,clothing,children & junior clothing,56200.0
+2299,3100043,clothing,men's clothing,59600.0
+2300,3100043,clothing,children & junior clothing,58900.0
+2301,3100045,food,agricultural products,20100.0
+2302,3100045,food,aquaculture products,38300.0
+2303,3100045,clothing,children & junior clothing,59600.0
+2304,3100049,clothing,infant clothes,31800.0
+2305,3100050,clothing,children & junior clothing,60100.0
+2306,3100052,clothing,sports wear,20100.0
+2307,3100052,clothing,children & junior clothing,59600.0
+2308,3100053,clothing,men's clothing,62700.0
+2309,3100054,clothing,infant clothes,32400.0
+2310,3100055,food,beverage,9300.0
+2311,3100055,clothing,children & junior clothing,60900.0
+2312,3100055,clothing,infant clothes,26300.0
+2313,3100056,food,beverage,11500.0
+2314,3100056,clothing,children & junior clothing,54600.0
+2315,3100056,clothing,infant clothes,26500.0
+2316,3100057,cosmetics,hair,7400.0
+2317,3100063,food,cookies,6600.0
+2318,3100064,clothing,pajamas,19300.0
+2319,3100066,clothing,road shop brand,41900.0
+2320,3100067,clothing,big size clothing,31200.0
+2321,3100068,clothing,children & junior clothing,54900.0
+2322,3100069,clothing,men's clothing,66000.0
+2323,3100070,clothing,children & junior clothing,60800.0
+2324,3100071,household goods,paper towel,17300.0
+2325,3100071,clothing,infant clothes,31500.0
+2326,3100072,clothing,men's clothing,64300.0
+2327,3100072,clothing,children & junior clothing,59900.0
+2328,3100073,clothing,men's clothing,59700.0
+2329,3100078,food,beverage,12900.0
+2330,3100079,clothing,men's clothing,65200.0
+2331,3100081,clothing,men's clothing,66000.0
+2332,3100082,clothing,men's clothing,63900.0
+2333,3100082,clothing,children & junior clothing,54300.0
+2334,3100083,clothing,men's clothing,61900.0
+2335,3100084,clothing,children & junior clothing,59000.0
+2336,3100085,clothing,men's clothing,67500.0
+2337,3100089,clothing,underwear,10100.0
+2338,3100090,household goods,household goods,43100.0
+2339,3100090,clothing,men's clothing,64200.0
+2340,3100092,clothing,men's clothing,64700.0
+2341,3100092,clothing,children & junior clothing,59800.0
+2342,3100093,clothing,men's clothing,61600.0
+2343,3100095,clothing,road shop brand,49600.0
+2344,3100097,clothing,men's clothing,65200.0
+2345,3100099,clothing,children & junior clothing,56200.0
+2346,3100100,household goods,paper towel,14400.0
+2347,3100100,clothing,men's clothing,64200.0
+2348,3100101,clothing,children & junior clothing,58200.0
+2349,3100104,clothing,children & junior clothing,59600.0
+2350,3100105,clothing,children & junior clothing,58500.0
+2351,3100106,clothing,children & junior clothing,59800.0
+2352,3100107,household goods,paper towel,14300.0
+2353,3100107,clothing,children & junior clothing,58600.0
+2354,3100108,clothing,road shop brand,48900.0
+2355,3100108,clothing,children & junior clothing,55500.0
+2356,3100108,clothing,infant clothes,26000.0
+2357,3100109,clothing,men's clothing,59600.0
+2358,3100110,clothing,men's clothing,63900.0
+2359,3100111,food,processed food,10100.0
+2360,3100111,food,aquaculture products,33000.0
+2361,3100112,food,beverage,12200.0
+2362,3100114,food,snack,11700.0
+2363,3100117,clothing,children & junior clothing,56200.0
+2364,3100118,household goods,paper towel,15900.0
+2365,3100118,clothing,men's clothing,58700.0
+2366,3100118,clothing,big size clothing,24000.0
+2367,3100119,clothing,children & junior clothing,59400.0
+2368,3100120,food,cookies,13600.0
+2369,3100121,clothing,children & junior clothing,54300.0
+2370,3100123,food,agricultural products,19200.0
+2371,3100123,food,aquaculture products,40300.0
+2372,3100124,clothing,children & junior clothing,57800.0
+2373,3100125,clothing,underwear,18100.0
+2374,3100127,clothing,children & junior clothing,57400.0
+2375,3100128,clothing,men's clothing,60400.0
+2376,3100129,food,beverage,11100.0
+2377,3100129,clothing,men's clothing,66700.0
+2378,3100130,food,beverage,8600.0
+2379,3100130,clothing,men's clothing,61500.0
+2380,3100131,food,beverage,6300.0
+2381,3100131,clothing,men's clothing,60300.0
+2382,3100132,household goods,kitchen utensils,13700.0
+2383,3100132,household goods,paper towel,9600.0
+2384,3100132,clothing,men's clothing,61900.0
+2385,3100137,clothing,women's clothing,94200.0
+2386,3100139,clothing,children & junior clothing,55900.0
+2387,3100140,clothing,children & junior clothing,54400.0
+2388,3100141,clothing,children & junior clothing,60700.0
+2389,3100142,clothing,women's clothing,95100.0
+2390,3100143,clothing,children & junior clothing,59700.0
+2391,3100144,clothing,children & junior clothing,56100.0
+2392,3100145,clothing,men's clothing,63200.0
+2393,3100146,clothing,men's clothing,60700.0
+2394,3100146,clothing,children & junior clothing,60900.0
+2395,3100148,clothing,children & junior clothing,62300.0
+2396,3100149,clothing,women's clothing,98600.0
