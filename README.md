@@ -14,26 +14,26 @@
 
 #### 1) 프로젝트 단위로 import 
 
-![my image](/./20200415_112424.PNG#center)
+![my image](/./20200415_112424.png#center)
 
 #### 2) 프로젝트 파일 선택
 
-![my image](/./20200415_112343.PNG#center)
+![my image](/./20200415_112343.png#center)
 
 #### 3) 프로젝트 파일이 import된 모습
 
-![my image](/./20200415_112639.PNG#center)
+![my image](/./20200415_112639.png#center)
 
 #### 4) 데이터셋 설정하기
 
 데이터셋이 처음에는 설정되어 있지 않아 에러가 발생할 수 있습니다.
 
-![my image](/./20200415_114907.PNG#center)
+![my image](/./20200415_114907.png#center)
 
 Load안에 Path를 클릭하여서 아래와 같은 창을 띄웁니다.
 
-![my image](/./20200415_113537.PNG#center)
+![my image](/./20200415_113537.png#center)
 
 이후에 데이터셋에 맞게끔 탭으로 구별하거나 쉼표로 구별해주면 됩니다.
-
-![my image](/./20200415_114845.PNG#center)
+ 
+![my image](/./20200415_114845.png#center)
