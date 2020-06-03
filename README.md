@@ -1,4 +1,4 @@
-![my image](/./title.PNG#center)
+![my image](https://github.com/brightics-practice/misc/blob/master/title.PNG#center)
 
 ## 실습파일 예제
 해당 파일은 브라이틱스와 함께하는 데이터 분석 실습 예제입니다.
@@ -14,26 +14,27 @@
 
 #### 1) 프로젝트 단위로 import 
 
-![my image](/./20200415_112424.png#center)
+
+![my image](https://github.com/brightics-practice/misc/blob/master/20200415_112424.png?raw=true#center)
 
 #### 2) 프로젝트 파일 선택
 
-![my image](/./20200415_112343.png#center)
+![my image](https://github.com/brightics-practice/misc/blob/master/20200415_112343.png?raw=true#center)
 
 #### 3) 프로젝트 파일이 import된 모습
 
-![my image](/./20200415_112639.png#center)
+![my image](https://github.com/brightics-practice/misc/blob/master/20200415_112639.png?raw=true#center)
 
 #### 4) 데이터셋 설정하기
 
 데이터셋이 처음에는 설정되어 있지 않아 에러가 발생할 수 있습니다.
 
-![my image](/./20200415_114907.png#center)
+![my image](https://github.com/brightics-practice/misc/blob/master/20200415_114907.png?raw=true#center)
 
 Load안에 Path를 클릭하여서 아래와 같은 창을 띄웁니다.
 
-![my image](/./20200415_113537.png#center)
+![my image](https://github.com/brightics-practice/misc/blob/master/20200415_113537.png?raw=true#center)
 
 이후에 데이터셋에 맞게끔 탭으로 구별하거나 쉼표로 구별해주면 됩니다.
  
-![my image](/./20200415_114845.png#center)
+![my image](https://github.com/brightics-practice/misc/blob/master/20200415_114845.png?raw=true#center)
