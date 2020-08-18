@@ -2,11 +2,6 @@
   <img src="https://github.com/brightics-practice/misc/blob/master/title.PNG" />
 </p>
 
-## 정오표
-
-1쇄에서의 오탈자나 내용수정은 아래에 표시합니다.
-
-- 50p : 강력한 인 메모리 성능을 제공하지만, 단 하나의 싱글 노드 켬퓨팅 자원을 .. Fault-Tolerant하지도 않다. -> 해당부분 삭제(노드구성에 따라 다를 수 있음) 
 
 ## 실습파일 예제
 해당 파일은 브라이틱스와 함께하는 데이터 분석 실습 예제입니다.
@@ -46,3 +41,11 @@ Load안에 Path를 클릭하여서 아래와 같은 창을 띄웁니다.
 이후에 데이터셋에 맞게끔 탭으로 구별하거나 쉼표로 구별해주면 됩니다.
  
 ![my image](https://github.com/brightics-practice/misc/blob/master/20200415_114845.png?raw=true#center)
+
+
+
+## 정오표
+
+1쇄에서의 오탈자나 내용수정은 아래에 표시합니다.
+
+- 50p : 강력한 인 메모리 성능을 제공하지만, 단 하나의 싱글 노드 켬퓨팅 자원을 .. Fault-Tolerant하지도 않다. -> 해당부분 삭제(노드구성에 따라 다를 수 있음) 
